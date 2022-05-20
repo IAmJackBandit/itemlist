@@ -4920,7 +4920,7 @@
       "defName": "Alien_Zabrak",
       "enabled": true,
       "name": "Zabrak",
-      "price": 3333
+      "price": 1000
     },
     {
       "data": {
@@ -4947,7 +4947,7 @@
       "defName": "Alien_Wolvx",
       "enabled": true,
       "name": "Logann",
-      "price": 3333
+      "price": 1000
     },
     {
       "data": {
@@ -4972,7 +4972,7 @@
       "defName": "O21_FR_Chitine",
       "enabled": true,
       "name": "Chitine",
-      "price": 3333
+      "price": 1000
     },
     {
       "data": {
@@ -4996,7 +4996,7 @@
       "defName": "O21_FR_DarkElf",
       "enabled": true,
       "name": "Dark Elf",
-      "price": 3333
+      "price": 1000
     },
     {
       "data": {
@@ -5019,7 +5019,7 @@
       "defName": "O21_FR_Dwarf",
       "enabled": true,
       "name": "Dwarf",
-      "price": 2917
+      "price": 1000
     },
     {
       "data": {
@@ -5044,7 +5044,7 @@
       "defName": "O21_FR_Firbolg",
       "enabled": true,
       "name": "Firbolg",
-      "price": 3333
+      "price": 1000
     },
     {
       "data": {
@@ -5067,7 +5067,7 @@
       "defName": "O21_FR_Gith",
       "enabled": true,
       "name": "Gith",
-      "price": 3333
+      "price": 1000
     },
     {
       "data": {
@@ -5091,7 +5091,7 @@
       "defName": "O21_FR_Goblin",
       "enabled": true,
       "name": "Goblin",
-      "price": 3333
+      "price": 1000
     },
     {
       "data": {
@@ -5115,7 +5115,7 @@
       "defName": "O21_FR_Halfling",
       "enabled": true,
       "name": "Halfling",
-      "price": 2917
+      "price": 1000
     },
     {
       "data": {
@@ -5138,7 +5138,7 @@
       "defName": "O21_FR_HalfOrc",
       "enabled": true,
       "name": "Half-Orc",
-      "price": 3333
+      "price": 1000
     },
     {
       "data": {
@@ -5162,7 +5162,7 @@
       "defName": "O21_FR_Hobgoblin",
       "enabled": true,
       "name": "Hobgoblin",
-      "price": 3333
+      "price": 1000
     },
     {
       "data": {
@@ -5186,7 +5186,7 @@
       "defName": "O21_FR_Illithid",
       "enabled": true,
       "name": "Illithid",
-      "price": 3333
+      "price": 1000
     },
     {
       "data": {
@@ -5209,7 +5209,7 @@
       "defName": "O21_FR_Killoren",
       "enabled": true,
       "name": "Killoren",
-      "price": 3333
+      "price": 1000
     },
     {
       "data": {
@@ -5236,7 +5236,7 @@
       "defName": "O21_FR_Kobold",
       "enabled": true,
       "name": "Kobold",
-      "price": 2500
+      "price": 1000
     },
     {
       "data": {
@@ -5260,7 +5260,7 @@
       "defName": "O21_FR_MoonElf",
       "enabled": true,
       "name": "Moon Elf",
-      "price": 3333
+      "price": 1000
     },
     {
       "data": {
@@ -5282,7 +5282,7 @@
       "defName": "O21_FR_Orc",
       "enabled": true,
       "name": "Orc",
-      "price": 3333
+      "price": 1000
     },
     {
       "data": {
@@ -5309,7 +5309,7 @@
       "defName": "O21_FR_SunElf",
       "enabled": true,
       "name": "Sun Elf",
-      "price": 3333
+      "price": 1000
     },
     {
       "data": {
@@ -5332,7 +5332,7 @@
       "defName": "O21_FR_Tabaxi",
       "enabled": true,
       "name": "Tabaxi",
-      "price": 3333
+      "price": 1000
     },
     {
       "data": {
@@ -5357,7 +5357,7 @@
       "defName": "O21_FR_Tiefling",
       "enabled": true,
       "name": "Tiefling",
-      "price": 3333
+      "price": 1000
     },
     {
       "data": {
@@ -5387,7 +5387,7 @@
       "defName": "O21_FR_Warforged",
       "enabled": true,
       "name": "Warforged",
-      "price": 4167
+      "price": 1000
     },
     {
       "data": {
@@ -5411,7 +5411,7 @@
       "defName": "O21_FR_WoodElf",
       "enabled": true,
       "name": "Wood Elf",
-      "price": 3333
+      "price": 1000
     }
   ]
 }
