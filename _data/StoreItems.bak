@@ -11875,7 +11875,7 @@
 		"defname": "VCE_DeepFriedSushi"
 	},
 	{
-		"abr": "human"surimi"",
+		"abr": "humansurimi",
 		"price": 3,
 		"category": "Raw fish",
 		"defname": "VCE_HumanSurimi"
@@ -20047,5 +20047,5 @@
 		"defname": "YakMorphTransformer"
 	},
 	],
-	"total": 3571
+	"total": 3473
 }
