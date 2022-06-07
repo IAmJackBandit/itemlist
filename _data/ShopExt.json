@@ -2143,68 +2143,6 @@
       "degree": 0
     },
     {
-      "description": "Timmy is now a natural hunter.",
-      "stats": [
-        "+1 shooting",
-        "+1 animals"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Pawnmorpher",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+1 shooting",
-          "+1 animals"
-        ]
-      },
-      "defName": "NaturalHunter",
-      "name": "naturalhunter",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1,
-      "removePrice": 1500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is intrigued by the idea of becoming something other than human.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "bodypurist"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Pawnmorpher",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "bodypurist"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "MutationAffinity",
-      "name": "mutationaffinity",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1,
-      "removePrice": 1500,
-      "degree": 0
-    },
-    {
       "description": "Timmy is an ally who will one day join your faction.",
       "stats": [
 
