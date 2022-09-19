@@ -2143,68 +2143,6 @@
       "degree": 0
     },
     {
-      "description": "Timmy is now a natural hunter.",
-      "stats": [
-        "+1 shooting",
-        "+1 animals"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Pawnmorpher",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+1 shooting",
-          "+1 animals"
-        ]
-      },
-      "defName": "NaturalHunter",
-      "name": "naturalhunter",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1,
-      "removePrice": 1500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is intrigued by the idea of becoming something other than human.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "bodypurist"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Pawnmorpher",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "bodypurist"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "MutationAffinity",
-      "name": "mutationaffinity",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1,
-      "removePrice": 1500,
-      "degree": 0
-    },
-    {
       "description": "Timmy is an ally who will one day join your faction.",
       "stats": [
 
@@ -4185,7 +4123,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy could be a shapeshifter that blends forms between man and wolf. When a special moon rises, he may have his first horrific transformation, or something else may happen...",
+      "description": "Timmy's sees himself as the natural leader of his pride and as a consequence looks down on others and is easily offended.",
       "stats": [
 
       ],
@@ -4197,7 +4135,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Rim of Madness - Werewolves",
+        "mod": "Pawnmorpher",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -4206,38 +4144,8 @@
 
         ]
       },
-      "defName": "ROM_Werewolf",
-      "name": "werewolf(?)",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1
-    },
-    {
-      "description": "Timmy is unknowingly a shapeshifter that blends forms between man and wolf. When a special moon rises, he will have his first horrific transformation.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rim of Madness - Werewolves",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "ROM_Werewolf",
-      "name": "werewolf(unblooded)",
+      "defName": "PM_PridefulTrait",
+      "name": "prideful",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -4245,9 +4153,10 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a shapeshifter that blends its form with that of a wolf.",
+      "description": "Timmy is now a natural hunter.",
       "stats": [
-
+        "+1 shooting",
+        "+1 animals"
       ],
       "conflicts": [
 
@@ -4257,55 +4166,56 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Rim of Madness - Werewolves",
+        "mod": "Pawnmorpher",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-
+          "+1 shooting",
+          "+1 animals"
         ]
       },
-      "defName": "ROM_Werewolf",
-      "name": "werewolf",
+      "defName": "NaturalHunter",
+      "name": "naturalhunter",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 1
+      "degree": 0
     },
     {
-      "description": "Having sworn a blood oath to their clan in good faith, Timmy is a shapeshifter that blends his form with that of a wolf, and cannot be recruited.",
+      "description": "Timmy is intrigued by the idea of becoming something other than human.",
       "stats": [
 
       ],
       "conflicts": [
-
+        "bodypurist"
       ],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Rim of Madness - Werewolves",
+        "mod": "Pawnmorpher",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "bodypurist"
         ],
         "stats": [
 
         ]
       },
-      "defName": "ROM_Werewolf",
-      "name": "werewolf(sworn)",
+      "defName": "MutationAffinity",
+      "name": "mutationaffinity",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 2
+      "degree": 0
     },
     {
-      "description": "Timmy is a genetic abberation known as the Metis. Somewhere in his genetic line, a werewolf mated with a werewolf and forever corrupted their werewolf line. This Werewolf can only transform into the Metis form.",
+      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
       "stats": [
 
       ],
@@ -4317,7 +4227,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Rim of Madness - Werewolves",
+        "mod": "Vanilla Psycasts Expanded",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -4326,13 +4236,81 @@
 
         ]
       },
-      "defName": "ROM_Werewolf",
-      "name": "werewolf(metis)",
+      "defName": "VPE_Thrall",
+      "name": "thrall",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 3
+      "degree": 0
+    },
+    {
+      "description": "Timmy came from an especially dangerous parts of the deep dark and is conditioned to kill before he's killed. his shooting accuracy is increased.",
+      "stats": [
+        "+4 shooting",
+        "+3.0 shooting accuracy"
+      ],
+      "conflicts": [
+        "brawler",
+        "gladiator"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "The Drow Race Fantasy Edition (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "brawler",
+          "gladiator"
+        ],
+        "stats": [
+          "+4 shooting",
+          "+3.0 shooting accuracy"
+        ]
+      },
+      "defName": "ShootingAccuracyDrow",
+      "name": "shoottokill",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has spent far too much time fighting to stay alive up close and personal. he knows how to make swings count, and  how to avoid them.",
+      "stats": [
+        "+4 melee",
+        "+2.0 melee hit chance",
+        "+10.0 melee dodge chance"
+      ],
+      "conflicts": [
+        "shoottokill"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "The Drow Race Fantasy Edition (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "shoottokill"
+        ],
+        "stats": [
+          "+4 melee",
+          "+2.0 melee hit chance",
+          "+10.0 melee dodge chance"
+        ]
+      },
+      "defName": "BrawlerDrow",
+      "name": "gladiator",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -4563,7 +4541,7 @@
           "+26.0C Maximum comfortable temperature",
           "+20 Leather amount",
           "+3 Honor value",
-          "+115% Hunger rate multiplier",
+          "+85% Hunger rate multiplier",
           "+120% Hunting stealth"
         ],
         "mod": "Unknown",
@@ -4871,6 +4849,87 @@
       "enabled": true,
       "name": "Wood Elf",
       "price": 1000
+    },
+    {
+      "data": {
+        "stats": [
+          "+40.00 Mass",
+          "+10% Flammability",
+          "+$1600 Market value",
+          "+4.90 Move speed",
+          "+5.0C Minimum comfortable temperature",
+          "+65.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+20.0% Armor - Blunt",
+          "+20.0% Armor - Sharp",
+          "+100% Psychic sensitivity",
+          "+110% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The thri-kreen are an insectoid monstrous humanoid race that primarily lived in plains and grasslands, the thri-kreen are a race of nomads and hunters and are also known as mantis warriors",
+      "defName": "FR_Alien_Thri-Kreen",
+      "enabled": true,
+      "name": "Thri-Kreen",
+      "price": 2667
+    },
+    {
+      "data": {
+        "stats": [
+          "+35.00 Mass",
+          "+70% Flammability",
+          "+$1650 Market value",
+          "+4.80 Move speed",
+          "-10.0C Minimum comfortable temperature",
+          "+55.0C Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+5.0% Armor - Blunt",
+          "+5.0% Armor - Sharp",
+          "+100% Psychic sensitivity",
+          "+80% Hunger rate multiplier"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Kuo-Toa were a depraved, piscine race of fish men that preffered living undeground, most kuo-toa were so mentally deranged they often saw things others couldn't and worshiped gods that didn't exist.......at least until they believed hard enough.",
+      "defName": "FR_Alien_Kuo-Toa",
+      "enabled": true,
+      "name": "Kuo-Toa",
+      "price": 2750
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+110% Psychic sensitivity",
+          "+70% Toxic sensitivity",
+          "+10.0C Minimum comfortable temperature",
+          "+20.0C Maximum comfortable temperature",
+          "+45 Leather amount",
+          "+$2300 Market value",
+          "+5.15 Move speed",
+          "+60 Carrying capacity",
+          "+120% Research speed",
+          "+90% Mining speed",
+          "+100.00% Social impact",
+          "+90% Plant work speed",
+          "+110% Plant harvest yield",
+          "+100% Construction speed",
+          "+2.57 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The Drow. Originating from the deep dark. A cruel, harsh society which has left its impact even on those residing above. Whether sent here as punishment, or as escape and a search for better things, these Drow are here now.",
+      "defName": "Alien_Drow_Medieval",
+      "enabled": true,
+      "name": "Drow",
+      "price": 3833
     }
   ]
 }
