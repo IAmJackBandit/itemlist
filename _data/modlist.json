@@ -309,7 +309,7 @@
     "author": "Netrve",
     "name": "Hunters Use Melee! (Continued)",
     "steamId": "2900108163",
-    "version": "1.4.2"
+    "version": "1.4.3"
   },
   {
     "author": "Haecriver",
@@ -333,7 +333,7 @@
     "author": "Neronix17",
     "name": "Tabula Rasa",
     "steamId": "1660622094",
-    "version": "1.0.8555.25696"
+    "version": "1.0.8612.19583"
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -850,6 +850,12 @@
     "name": "Dual Wield",
     "steamId": "2537588364",
     "version": "0.5.0.0"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Gunplay",
+    "steamId": "2034896549",
+    "version": "1.0.379.0018"
   },
   {
     "author": "YAYO",
@@ -1644,12 +1650,6 @@
     "version": null
   },
   {
-    "author": "Owlchemist",
-    "name": "Better Vanilla Masking",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Uuugggg",
     "name": "Build From Inventory",
     "steamId": "1691419062",
@@ -1758,6 +1758,18 @@
     "version": "2.0.2"
   },
   {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "",
+    "version": "1.5.1336"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
+    "name": "Vanilla Vehicles Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -1774,5 +1786,29 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "6.3.0.0.biotech.b12"
+  },
+  {
+    "author": "sindre0830",
+    "name": "Universum",
+    "steamId": "2920558019",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Turnovus",
+    "name": "Integrated Xenotypes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "juanlopez2008",
+    "name": "LightsOut",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sam's Litle RimRims",
+    "name": "Pannelings",
+    "steamId": null,
+    "version": null
   }
 ]
