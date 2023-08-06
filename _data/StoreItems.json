@@ -14963,7 +14963,55 @@
 		"price": 46,
 		"category": "Misc",
 		"defname": "LTS_AtlasWoodCover"
+	},
+	{
+		"abr": "caralternator",
+		"price": 158,
+		"category": "Car parts",
+		"defname": "VVE_CarAlternator"
+	},
+	{
+		"abr": "carexhaust",
+		"price": 133,
+		"category": "Car parts",
+		"defname": "VVE_CarExhaust"
+	},
+	{
+		"abr": "carsuspension",
+		"price": 150,
+		"category": "Car parts",
+		"defname": "VVE_CarSuspension"
+	},
+	{
+		"abr": "carwheel",
+		"price": 117,
+		"category": "Car parts",
+		"defname": "VVE_CarWheel"
+	},
+	{
+		"abr": "engineblock",
+		"price": 542,
+		"category": "Car parts",
+		"defname": "VVE_EngineBlock"
+	},
+	{
+		"abr": "garagecabinet",
+		"price": 667,
+		"category": "Misc",
+		"defname": "VVE_GarageCabinet"
+	},
+	{
+		"abr": "gauranlenthroneofsapphos",
+		"price": 2492,
+		"category": "Furniture",
+		"defname": "GauranlenThrone"
+	},
+	{
+		"abr": "pannelingpainting",
+		"price": 166,
+		"category": "Art",
+		"defname": "PannelingPainting"
 	}
 	],
-	"total": 2494
+	"total": 2502
 }

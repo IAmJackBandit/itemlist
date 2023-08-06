@@ -348,6 +348,24 @@
     "version": null
   },
   {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Systems",
+    "steamId": "2812826451",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Expanded - Royalty Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Furnishing",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Jsin0",
     "name": "Lag Free Torches and More",
     "steamId": null,
@@ -552,6 +570,12 @@
     "version": "1.0.1.2"
   },
   {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Advanced Bionics Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "SineSwiper",
     "name": "Xenobionic Patcher",
     "steamId": null,
@@ -681,7 +705,7 @@
     "author": "José Ángel Soler Ortiz",
     "name": "TraderGen",
     "steamId": "2804121197",
-    "version": "0.6.2.0"
+    "version": "0.7.0.0"
   },
   {
     "author": "Superniquito",
@@ -740,12 +764,6 @@
   {
     "author": "Oskar Potocki, xrushha and SmashPhil",
     "name": "Vanilla Apparel Expanded — Accessories",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Expanded - Royalty Patches",
     "steamId": null,
     "version": null
   },
@@ -1576,6 +1594,168 @@
     "name": "Traders Have Money",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "CopperMonster",
+    "name": "[CM] Biotech DLC Texture Upscale",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CopperMonster",
+    "name": "[CM] Ideology DLC Texture Upscale",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nera",
+    "name": "[BT] SpawnThoseGenes!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OPERATOR",
+    "name": "[BT] EyeGenes2 | Base - [NL] Facial Animation |",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Grizzlemethis",
+    "name": "[GMT] Mausoleums, Tombs and Graves",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "All Memories Fade",
+    "steamId": "2800155563",
+    "version": "1.4.1"
+  },
+  {
+    "author": "1trickPonyta",
+    "name": "Bed Rest For Food Poisoning",
+    "steamId": "2567901366",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "telardo",
+    "name": "Better Gene Graphics Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Better Vanilla Masking",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Build From Inventory",
+    "steamId": "1691419062",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "AludisNHG",
+    "name": "Buildable Blood torches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dhultgren",
+    "name": "Bury On The Spot",
+    "steamId": "2180356108",
+    "version": "1.4.0.0"
+  },
+  {
+    "author": "busted_bunny",
+    "name": "Capture Them",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "purpleyam",
+    "name": "Colorful Coats - Vanilla Animals Expanded!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "miyamiya and twsta",
+    "name": "Compressed Raid",
+    "steamId": "2927368319",
+    "version": "1.4"
+  },
+  {
+    "author": "Sea",
+    "name": "Consistent Gene Inheritance",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Canon",
+    "name": "Crowns and Regalia",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "K",
+    "name": "GlitterNet",
+    "steamId": "1725544583",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "K",
+    "name": "CyberNet",
+    "steamId": "1725545225",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Do Your F****** Research",
+    "steamId": "2880481073",
+    "version": "1.0.2"
+  },
+  {
+    "author": "dracoix",
+    "name": "Door Mat",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Skylights",
+    "steamId": "833899765",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Vesper",
+    "name": "EGI Holograms and Projectors",
+    "steamId": "2979598490",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Victorique, Aurani and Tarojun",
+    "name": "Expanded Prosthetics and Organ Engineering - Forked",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Realistic Human Sounds (Continued)",
+    "steamId": "2013191418",
+    "version": "1.4.2"
+  },
+  {
+    "author": "Brat",
+    "name": "Remove Real Religions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Garethp",
+    "name": "Replace Stuff Mod Compatibility",
+    "steamId": "2642161586",
+    "version": "2.0.2"
   },
   {
     "author": "hodlhodl",
