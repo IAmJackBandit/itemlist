@@ -1021,12 +1021,6 @@
 		"defname": "Leather_Heavy"
 	},
 	{
-		"abr": "patchleather",
-		"price": 2,
-		"category": "Leathers",
-		"defname": "Leather_Patch"
-	},
-	{
 		"abr": "shieldbelt",
 		"price": 650,
 		"category": "Utility",
@@ -15011,7 +15005,2365 @@
 		"price": 166,
 		"category": "Art",
 		"defname": "PannelingPainting"
+	},
+	{
+		"abr": "advancedarm",
+		"price": 2125,
+		"category": "Mechanical",
+		"defname": "ATR_AdvancedArm"
+	},
+	{
+		"abr": "advancedaudiosensor",
+		"price": 1033,
+		"category": "Mechanical",
+		"defname": "ATR_AdvancedAudioSensor"
+	},
+	{
+		"abr": "advancedbatterypack",
+		"price": 1033,
+		"category": "Mechanical",
+		"defname": "ATR_AdvancedBattery"
+	},
+	{
+		"abr": "advancedcoolantpump",
+		"price": 1033,
+		"category": "Mechanical",
+		"defname": "ATR_AdvancedCoolantPump"
+	},
+	{
+		"abr": "advancedheatsink",
+		"price": 1033,
+		"category": "Mechanical",
+		"defname": "ATR_AdvancedHeatsink"
+	},
+	{
+		"abr": "advancedleg",
+		"price": 2125,
+		"category": "Mechanical",
+		"defname": "ATR_AdvancedLeg"
+	},
+	{
+		"abr": "advancedmechanitestorage",
+		"price": 1033,
+		"category": "Mechanical",
+		"defname": "ATR_AdvancedMechaniteStorage"
+	},
+	{
+		"abr": "advancedreactor",
+		"price": 1033,
+		"category": "Mechanical",
+		"defname": "ATR_AdvancedReactor"
+	},
+	{
+		"abr": "advancedrepairstim",
+		"price": 100,
+		"category": "Medicine",
+		"defname": "MHC_RepairStimAdvanced"
+	},
+	{
+		"abr": "advancedvisualsensor",
+		"price": 1033,
+		"category": "Mechanical",
+		"defname": "ATR_AdvancedVisualSensor"
+	},
+	{
+		"abr": "agriarm",
+		"price": 683,
+		"category": "Mechanical",
+		"defname": "ATR_AgriArm"
+	},
+	{
+		"abr": "airfilter",
+		"price": 525,
+		"category": "Android body parts",
+		"defname": "VREA_AirFilter"
+	},
+	{
+		"abr": "androidarm",
+		"price": 383,
+		"category": "Android body parts",
+		"defname": "VREA_AndroidArm"
+	},
+	{
+		"abr": "androidbehavioriststation",
+		"price": 2417,
+		"category": "Production",
+		"defname": "VREA_AndroidBehavioristStation"
+	},
+	{
+		"abr": "androidcreationstation",
+		"price": 3517,
+		"category": "Production",
+		"defname": "VREA_AndroidCreationStation"
+	},
+	{
+		"abr": "androidfoot",
+		"price": 231,
+		"category": "Android body parts",
+		"defname": "VREA_AndroidFoot"
+	},
+	{
+		"abr": "androidhand",
+		"price": 231,
+		"category": "Android body parts",
+		"defname": "VREA_AndroidHand"
+	},
+	{
+		"abr": "androidleg",
+		"price": 383,
+		"category": "Android body parts",
+		"defname": "VREA_AndroidLeg"
+	},
+	{
+		"abr": "androidpartworkbench",
+		"price": 1150,
+		"category": "Production",
+		"defname": "VREA_AndroidPartWorkbench"
+	},
+	{
+		"abr": "androidresurrectorkit",
+		"price": 500,
+		"category": "Manufactured",
+		"defname": "ATR_AndroidResurrectorKit"
+	},
+	{
+		"abr": "arrowsign",
+		"price": 20,
+		"category": "Misc",
+		"defname": "SignArrow_Wood"
+	},
+	{
+		"abr": "artificialarm",
+		"price": 261,
+		"category": "Android body parts",
+		"defname": "VREA_ATR_MechanicalArm"
+	},
+	{
+		"abr": "artificialartificialbrain",
+		"price": 261,
+		"category": "Android body parts",
+		"defname": "VREA_ATR_ArtificialBrain"
+	},
+	{
+		"abr": "artificialaudiosensor",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_ATR_MechanicalAudioSensor"
+	},
+	{
+		"abr": "artificialbattery",
+		"price": 231,
+		"category": "Android body parts",
+		"defname": "VREA_ATR_InternalBattery"
+	},
+	{
+		"abr": "artificialblood",
+		"price": 246,
+		"category": "Android body parts",
+		"defname": "VREA_CNBlood"
+	},
+	{
+		"abr": "artificialcentralmass",
+		"price": 333,
+		"category": "Android body parts",
+		"defname": "VREA_ATM_MechaniteTorso"
+	},
+	{
+		"abr": "artificialclavicle",
+		"price": 246,
+		"category": "Android body parts",
+		"defname": "VREA_Clavicle"
+	},
+	{
+		"abr": "artificialcoolantpump",
+		"price": 231,
+		"category": "Android body parts",
+		"defname": "VREA_ATR_InternalCorePump"
+	},
+	{
+		"abr": "artificialcoreassistant",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_ATR_CoreAssistant"
+	},
+	{
+		"abr": "artificialcorecage",
+		"price": 333,
+		"category": "Android body parts",
+		"defname": "VREA_ATM_CoreIntegrityCage"
+	},
+	{
+		"abr": "artificialfemur",
+		"price": 246,
+		"category": "Android body parts",
+		"defname": "VREA_Femur"
+	},
+	{
+		"abr": "artificialfinger",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_Finger"
+	},
+	{
+		"abr": "artificialfinger",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_ATR_MechanicalFinger"
+	},
+	{
+		"abr": "artificialfoot",
+		"price": 231,
+		"category": "Android body parts",
+		"defname": "VREA_ATR_MechanicalFoot"
+	},
+	{
+		"abr": "artificialframework",
+		"price": 261,
+		"category": "Android body parts",
+		"defname": "VREA_ATR_Framework"
+	},
+	{
+		"abr": "artificialgenerator",
+		"price": 246,
+		"category": "Android body parts",
+		"defname": "VREA_ATR_InternalGenerator"
+	},
+	{
+		"abr": "artificialhand",
+		"price": 231,
+		"category": "Android body parts",
+		"defname": "VREA_ATR_MechanicalHand"
+	},
+	{
+		"abr": "artificialhead",
+		"price": 261,
+		"category": "Android body parts",
+		"defname": "VREA_ATR_MechanicalHead"
+	},
+	{
+		"abr": "artificialheatsink",
+		"price": 231,
+		"category": "Android body parts",
+		"defname": "VREA_ATR_MechanicalHeatsink"
+	},
+	{
+		"abr": "artificialhumerus",
+		"price": 246,
+		"category": "Android body parts",
+		"defname": "VREA_Humerus"
+	},
+	{
+		"abr": "artificialjaw",
+		"price": 306,
+		"category": "Android body parts",
+		"defname": "VREA_ArtificialJaw"
+	},
+	{
+		"abr": "artificialleg",
+		"price": 261,
+		"category": "Android body parts",
+		"defname": "VREA_ATR_MechanicalLeg"
+	},
+	{
+		"abr": "artificiallimb",
+		"price": 231,
+		"category": "Android body parts",
+		"defname": "VREA_ATM_MechanicalLimb"
+	},
+	{
+		"abr": "artificialmanipulator",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_ATM_MechanicalManipulator"
+	},
+	{
+		"abr": "artificialmechanitecore",
+		"price": 261,
+		"category": "Android body parts",
+		"defname": "VREA_ATM_MechaniteCore"
+	},
+	{
+		"abr": "artificialmechanitestorage",
+		"price": 231,
+		"category": "Android body parts",
+		"defname": "VREA_ATR_MechaniteStorage"
+	},
+	{
+		"abr": "artificialneck",
+		"price": 246,
+		"category": "Android body parts",
+		"defname": "VREA_Neck"
+	},
+	{
+		"abr": "artificialneck",
+		"price": 261,
+		"category": "Android body parts",
+		"defname": "VREA_ATR_MechanicalNeck"
+	},
+	{
+		"abr": "artificialnervoussystem",
+		"price": 246,
+		"category": "Android body parts",
+		"defname": "VREA_CNNervousSystem"
+	},
+	{
+		"abr": "artificialnose",
+		"price": 231,
+		"category": "Android body parts",
+		"defname": "VREA_ArtificialNose"
+	},
+	{
+		"abr": "artificialpelvis",
+		"price": 246,
+		"category": "Android body parts",
+		"defname": "VREA_Pelvis"
+	},
+	{
+		"abr": "artificialradius",
+		"price": 231,
+		"category": "Android body parts",
+		"defname": "VREA_Radius"
+	},
+	{
+		"abr": "artificialribcage",
+		"price": 306,
+		"category": "Android body parts",
+		"defname": "VREA_ArtificialRibcage"
+	},
+	{
+		"abr": "artificialshoulder",
+		"price": 261,
+		"category": "Android body parts",
+		"defname": "VREA_Shoulder"
+	},
+	{
+		"abr": "artificialshoulder",
+		"price": 246,
+		"category": "Android body parts",
+		"defname": "VREA_ATR_MechanicalShoulder"
+	},
+	{
+		"abr": "artificialskin",
+		"price": 246,
+		"category": "Android body parts",
+		"defname": "VREA_CNSkin"
+	},
+	{
+		"abr": "artificialsmellsensor",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_ATR_SmellSensor"
+	},
+	{
+		"abr": "artificialspine",
+		"price": 323,
+		"category": "Android body parts",
+		"defname": "VREA_ArtificialSpine"
+	},
+	{
+		"abr": "artificialsternum",
+		"price": 231,
+		"category": "Android body parts",
+		"defname": "VREA_Sternum"
+	},
+	{
+		"abr": "artificialthorax",
+		"price": 306,
+		"category": "Android body parts",
+		"defname": "VREA_ATR_MechanicalThorax"
+	},
+	{
+		"abr": "artificialtibia",
+		"price": 246,
+		"category": "Android body parts",
+		"defname": "VREA_Tibia"
+	},
+	{
+		"abr": "artificialtoe",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_Toe"
+	},
+	{
+		"abr": "artificialtongue",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_Tongue"
+	},
+	{
+		"abr": "artificialuppermass",
+		"price": 246,
+		"category": "Android body parts",
+		"defname": "VREA_ATM_MechaniteHead"
+	},
+	{
+		"abr": "artificialutilityslot",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_Waist"
+	},
+	{
+		"abr": "artificialutilityslot",
+		"price": 231,
+		"category": "Android body parts",
+		"defname": "VREA_ATR_MechanicalWaist"
+	},
+	{
+		"abr": "artificialvisualsensor",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_ATR_MechanicalVisualSensor"
+	},
+	{
+		"abr": "artificialvoicesynthesizer",
+		"price": 201,
+		"category": "Android body parts",
+		"defname": "VREA_ATR_VoiceSynthesizer"
+	},
+	{
+		"abr": "audioprocessor",
+		"price": 492,
+		"category": "Android body parts",
+		"defname": "VREA_AudioProcessor"
+	},
+	{
+		"abr": "basetypeserum",
+		"price": 3500,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_Base"
+	},
+	{
+		"abr": "basicserumcapsule",
+		"price": 125,
+		"category": "Misc",
+		"defname": "WVC_XenotypeSerumCapsule"
+	},
+	{
+		"abr": "bedsidecharger",
+		"price": 174,
+		"category": "Misc",
+		"defname": "MHC_BedsideChargerFacility"
+	},
+	{
+		"abr": "billboard",
+		"price": 475,
+		"category": "Misc",
+		"defname": "SignBillboard"
+	},
+	{
+		"abr": "bondingcore",
+		"price": 6667,
+		"category": "Items",
+		"defname": "PersonaBondForge_ThingDef_BondingCore"
+	},
+	{
+		"abr": "bouncerframe",
+		"price": 833,
+		"category": "Mechanical",
+		"defname": "BATR_Bouncer"
+	},
+	{
+		"abr": "cairn",
+		"price": 50,
+		"category": "Misc",
+		"defname": "SignCairn"
+	},
+	{
+		"abr": "chargingpod",
+		"price": 282,
+		"category": "Furniture",
+		"defname": "MHC_ChargingPod"
+	},
+	{
+		"abr": "chargingstation",
+		"price": 1375,
+		"category": "Misc",
+		"defname": "MHC_ChargingStation"
+	},
+	{
+		"abr": "chemicalcapsule",
+		"price": 8,
+		"category": "Manufactured",
+		"defname": "ATB_ChemCapsule"
+	},
+	{
+		"abr": "chemicalprocessingunit",
+		"price": 833,
+		"category": "Animals",
+		"defname": "ATB_DroneChemUnit"
+	},
+	{
+		"abr": "cloningmechserum",
+		"price": 1833,
+		"category": "Misc",
+		"defname": "MechSerumCloner"
+	},
+	{
+		"abr": "combatassistantchip",
+		"price": 1000,
+		"category": "Mechanical",
+		"defname": "ATR_CombatAssistant"
+	},
+	{
+		"abr": "compositeframe",
+		"price": 2000,
+		"category": "Mechanical",
+		"defname": "ATR_CompositePlating"
+	},
+	{
+		"abr": "constructionassistantchip",
+		"price": 1000,
+		"category": "Mechanical",
+		"defname": "ATR_ConstructionAssistant"
+	},
+	{
+		"abr": "controllerassistant",
+		"price": 1000,
+		"category": "Mechanical",
+		"defname": "ATR_ControllerAssistant"
+	},
+	{
+		"abr": "coolantpack",
+		"price": 5,
+		"category": "Drugs",
+		"defname": "MHC_CoolantPack"
+	},
+	{
+		"abr": "cultivationassistant",
+		"price": 1000,
+		"category": "Mechanical",
+		"defname": "ATR_CultivationAssistant"
+	},
+	{
+		"abr": "cybertechpartreplacer",
+		"price": 4667,
+		"category": "Mechanical",
+		"defname": "ATR_CybertechReplacementPart"
+	},
+	{
+		"abr": "droneresurrectorkit",
+		"price": 333,
+		"category": "Manufactured",
+		"defname": "ATR_DroneResurrectorKit"
+	},
+	{
+		"abr": "emptyserumcase",
+		"price": 367,
+		"category": "Misc",
+		"defname": "WVC_EmptyXenotypeSerum"
+	},
+	{
+		"abr": "excavationassistantchip",
+		"price": 1000,
+		"category": "Mechanical",
+		"defname": "ATR_ExcavationAssistant"
+	},
+	{
+		"abr": "generestorationserum",
+		"price": 1117,
+		"category": "Base serums",
+		"defname": "WVC_GeneRestorationSerum_Base"
+	},
+	{
+		"abr": "generalassistantchip",
+		"price": 1000,
+		"category": "Mechanical",
+		"defname": "ATR_GeneralAssistant"
+	},
+	{
+		"abr": "groundplaque",
+		"price": 458,
+		"category": "Misc",
+		"defname": "SignPlaque"
+	},
+	{
+		"abr": "guardianframe",
+		"price": 1667,
+		"category": "Mechanical",
+		"defname": "ATR_GuardianFrame"
+	},
+	{
+		"abr": "hangingsign",
+		"price": 20,
+		"category": "Misc",
+		"defname": "SignHanging"
+	},
+	{
+		"abr": "hangingsign",
+		"price": 17,
+		"category": "Misc",
+		"defname": "SignHangingIndustrial"
+	},
+	{
+		"abr": "hazardsign",
+		"price": 32,
+		"category": "Misc",
+		"defname": "SignHazard"
+	},
+	{
+		"abr": "headhuntercannon",
+		"price": 6667,
+		"category": "Ranged weapons",
+		"defname": "ATM_HeadhunterCannon"
+	},
+	{
+		"abr": "highwaysign",
+		"price": 32,
+		"category": "Misc",
+		"defname": "SignHighway"
+	},
+	{
+		"abr": "holographicsign",
+		"price": 244,
+		"category": "Misc",
+		"defname": "SignHologram"
+	},
+	{
+		"abr": "housesign",
+		"price": 20,
+		"category": "Misc",
+		"defname": "SignHome"
+	},
+	{
+		"abr": "hybridserum(animakin)",
+		"price": 5567,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_VRE_Animakin_RB"
+	},
+	{
+		"abr": "hybridserum(corruptedtitan)",
+		"price": 7983,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_BS_Corrupterd_Titan_RB"
+	},
+	{
+		"abr": "hybridserum(custom)",
+		"price": 4583,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_CustomHybridRandom"
+	},
+	{
+		"abr": "hybridserum(deterioratingtitan)",
+		"price": 6500,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_BS_BrokenTitan_RB"
+	},
+	{
+		"abr": "hybridserum(draculmaster)",
+		"price": 8617,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_VU_Dracul_Progenitor_RB"
+	},
+	{
+		"abr": "hybridserum(draculneonate)",
+		"price": 7633,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_VU_Dracul_RB"
+	},
+	{
+		"abr": "hybridserum(draculspawn)",
+		"price": 7533,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_VU_Dracul_Spawn_RB"
+	},
+	{
+		"abr": "hybridserum(dracul)",
+		"price": 8550,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_VU_Dracul_Mature_RB"
+	},
+	{
+		"abr": "hybridserum(efreet)",
+		"price": 5267,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_AG_Efreet_RB"
+	},
+	{
+		"abr": "hybridserum(feraldracul)",
+		"price": 6800,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_VU_Dracul_Feral_RB"
+	},
+	{
+		"abr": "hybridserum(firejotun)",
+		"price": 5633,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_BS_FireJotun_RB"
+	},
+	{
+		"abr": "hybridserum(frankenstein)",
+		"price": 5200,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_VU_Frankenstein_RB"
+	},
+	{
+		"abr": "hybridserum(frostjotun)",
+		"price": 6250,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_BS_FrostJotunInBlue_RB"
+	},
+	{
+		"abr": "hybridserum(frostjotun)",
+		"price": 5583,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_BS_FrostJotun_RB"
+	},
+	{
+		"abr": "hybridserum(gatekeeper)",
+		"price": 7267,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_VU_Gatekeeper_RB"
+	},
+	{
+		"abr": "hybridserum(gauranlenkin)",
+		"price": 5567,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_VRE_Gauranlenkin_RB"
+	},
+	{
+		"abr": "hybridserum(genie)",
+		"price": 4567,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_Genie_RB"
+	},
+	{
+		"abr": "hybridserum(ghoul)",
+		"price": 5983,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_VU_Ghoul_RB"
+	},
+	{
+		"abr": "hybridserum(golemkind)",
+		"price": 6383,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_WVC_Golemkind_RB"
+	},
+	{
+		"abr": "hybridserum(greatogre)",
+		"price": 5400,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_BS_GreatOgre_RB"
+	},
+	{
+		"abr": "hybridserum(half-vampire)",
+		"price": 6033,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_VU_Dracul_HalfVampire_RB"
+	},
+	{
+		"abr": "hybridserum(heirofaurgelmir)",
+		"price": 6633,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_BS_Ymir_RB"
+	},
+	{
+		"abr": "hybridserum(heirofsurtr)",
+		"price": 6267,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_BS_Surtr_RB"
+	},
+	{
+		"abr": "hybridserum(hellguard)",
+		"price": 7333,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_VU_Hellguard_RB"
+	},
+	{
+		"abr": "hybridserum(highmate)",
+		"price": 5033,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_Highmate_RB"
+	},
+	{
+		"abr": "hybridserum(hiveling)",
+		"price": 5533,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_AG_Hiveling_RB"
+	},
+	{
+		"abr": "hybridserum(hussar)",
+		"price": 5050,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_Hussar_RB"
+	},
+	{
+		"abr": "hybridserum(imp)",
+		"price": 6933,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_VU_Imp_RB"
+	},
+	{
+		"abr": "hybridserum(lapis)",
+		"price": 5700,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_AG_Lapis_RB"
+	},
+	{
+		"abr": "hybridserum(lycanthrope)",
+		"price": 6167,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_VU_Lycantrope_RB"
+	},
+	{
+		"abr": "hybridserum(mechakin)",
+		"price": 8250,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_WVC_Meca_RB"
+	},
+	{
+		"abr": "hybridserum(minddevourer)",
+		"price": 5167,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_AG_MindDevourer_RB"
+	},
+	{
+		"abr": "hybridserum(nosferatu)",
+		"price": 7317,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_VU_Nosferatu_RB"
+	},
+	{
+		"abr": "hybridserum(ocularkin)",
+		"price": 5583,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_VRE_Ocularkin_RB"
+	},
+	{
+		"abr": "hybridserum(ogre)",
+		"price": 5333,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_BS_Ogre_RB"
+	},
+	{
+		"abr": "hybridserum(panneling)",
+		"price": 6417,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_Panneling_RB"
+	},
+	{
+		"abr": "hybridserum(poluxkin)",
+		"price": 5650,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_VRE_Poluxkin_RB"
+	},
+	{
+		"abr": "hybridserum(random)",
+		"price": 4583,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_HybridRandom"
+	},
+	{
+		"abr": "hybridserum(returned)",
+		"price": 5650,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_VU_Returned_RB"
+	},
+	{
+		"abr": "hybridserum(rogkind)",
+		"price": 8333,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_WVC_RogueFormer_RB"
+	},
+	{
+		"abr": "hybridserum(sanguophage)",
+		"price": 6933,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_Sanguophage_RB"
+	},
+	{
+		"abr": "hybridserum(succubus)",
+		"price": 6700,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_VU_Succubus_RB"
+	},
+	{
+		"abr": "hybridserum(svartalf)",
+		"price": 6083,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_BS_Svartalf_RB"
+	},
+	{
+		"abr": "hybridserum(taukai)",
+		"price": 5333,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_AG_Taukai_RB"
+	},
+	{
+		"abr": "hybridserum(throwex)",
+		"price": 8200,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_WVC_GeneThrower_RB"
+	},
+	{
+		"abr": "hybridserum(waster)",
+		"price": 4967,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_Waster_RB"
+	},
+	{
+		"abr": "hybridserum(whiterose)",
+		"price": 6017,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid_VU_WhiteRose_RB"
+	},
+	{
+		"abr": "hybridtypeserum",
+		"price": 4583,
+		"category": "Hybrid serums",
+		"defname": "WVC_XenotypeSerum_Hybrid"
+	},
+	{
+		"abr": "hydraulicframe",
+		"price": 1667,
+		"category": "Mechanical",
+		"defname": "ATR_HydraulicFrame"
+	},
+	{
+		"abr": "industrialsign",
+		"price": 32,
+		"category": "Misc",
+		"defname": "SignIndustrial"
+	},
+	{
+		"abr": "insightassistantchip",
+		"price": 1000,
+		"category": "Mechanical",
+		"defname": "ATR_InsightAssistant"
+	},
+	{
+		"abr": "intermediaterepairstim",
+		"price": 35,
+		"category": "Medicine",
+		"defname": "MHC_RepairStimIntermediate"
+	},
+	{
+		"abr": "jotunframe",
+		"price": 8333,
+		"category": "Mechanical",
+		"defname": "BATR_Jotun"
+	},
+	{
+		"abr": "largewallsign",
+		"price": 127,
+		"category": "Misc",
+		"defname": "SignWallLargeLit"
+	},
+	{
+		"abr": "low-techbattery",
+		"price": 433,
+		"category": "Power",
+		"defname": "LowTechBattery"
+	},
+	{
+		"abr": "lubricantpack",
+		"price": 5,
+		"category": "Drugs",
+		"defname": "MHC_LubricationPack"
+	},
+	{
+		"abr": "m1warrior",
+		"price": 1250,
+		"category": "Animal",
+		"defname": "ATM_Mark1Warrior"
+	},
+	{
+		"abr": "m2bishop",
+		"price": 2167,
+		"category": "Animal",
+		"defname": "ATM_Mark2Bishop"
+	},
+	{
+		"abr": "m3paladin",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "ATM_Mark3Paladin"
+	},
+	{
+		"abr": "m4jellyman",
+		"price": 6667,
+		"category": "Animal",
+		"defname": "ATM_Mark4Jellyman"
+	},
+	{
+		"abr": "m5titan",
+		"price": 30000,
+		"category": "Animal",
+		"defname": "ATM_Mark5Titan"
+	},
+	{
+		"abr": "mark5deploymenttargeter",
+		"price": 2000,
+		"category": "Utility",
+		"defname": "ATM_OrbitalTargeterMechFall"
+	},
+	{
+		"abr": "mechpod",
+		"price": 1483,
+		"category": "Furniture",
+		"defname": "ATM_ChargingPodMech"
+	},
+	{
+		"abr": "mechpoleaxe",
+		"price": 6667,
+		"category": "Mech weapons",
+		"defname": "ATM_MechPoleaxe"
+	},
+	{
+		"abr": "mechanicassistantchip",
+		"price": 1000,
+		"category": "Mechanical",
+		"defname": "ATR_MechanicAssistant"
+	},
+	{
+		"abr": "mechanicbed",
+		"price": 1142,
+		"category": "Furniture",
+		"defname": "MHC_MechanicBed"
+	},
+	{
+		"abr": "mechaniccabinet",
+		"price": 717,
+		"category": "Furniture",
+		"defname": "MHC_MechanicCabinet"
+	},
+	{
+		"abr": "mechanicframe",
+		"price": 833,
+		"category": "Mechanical",
+		"defname": "BATR_Mechanic"
+	},
+	{
+		"abr": "mechanicalassemblycasket",
+		"price": 900,
+		"category": "Production",
+		"defname": "ATR_MechanicalAssemblyPod"
+	},
+	{
+		"abr": "mechanicalpartpack",
+		"price": 50,
+		"category": "Manufactured",
+		"defname": "MHC_PartPack"
+	},
+	{
+		"abr": "mechanicalpartsworkbench",
+		"price": 417,
+		"category": "Production",
+		"defname": "ATR_MechPartWorkbench"
+	},
+	{
+		"abr": "mechaniteantifreeze",
+		"price": 7,
+		"category": "Drugs",
+		"defname": "ATR_MechAntifreeze"
+	},
+	{
+		"abr": "mechapack",
+		"price": 250,
+		"category": "Misc",
+		"defname": "WVC_MechaGenepack"
+	},
+	{
+		"abr": "medicineassistantchip",
+		"price": 1000,
+		"category": "Mechanical",
+		"defname": "ATR_MedicineAssistant"
+	},
+	{
+		"abr": "mentalassistant",
+		"price": 1000,
+		"category": "Mechanical",
+		"defname": "ATR_MentalAssistant"
+	},
+	{
+		"abr": "metabolismregulator",
+		"price": 542,
+		"category": "Android body parts",
+		"defname": "VREA_MetabolismRegulator"
+	},
+	{
+		"abr": "microscyther",
+		"price": 67,
+		"category": "Animals",
+		"defname": "ATB_MicroScyther"
+	},
+	{
+		"abr": "microscythertrap",
+		"price": 592,
+		"category": "Security",
+		"defname": "ATB_TrapIED_Microscyther"
+	},
+	{
+		"abr": "mineralunit",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "ATB_DroneMineralUnit"
+	},
+	{
+		"abr": "miningarm",
+		"price": 683,
+		"category": "Mechanical",
+		"defname": "ATR_MiningArm"
+	},
+	{
+		"abr": "mobilityframe",
+		"price": 1667,
+		"category": "Mechanical",
+		"defname": "ATR_MobilityFrame"
+	},
+	{
+		"abr": "naturesign",
+		"price": 72,
+		"category": "Misc",
+		"defname": "SignNature"
+	},
+	{
+		"abr": "neoncocktailsign",
+		"price": 63,
+		"category": "Misc",
+		"defname": "SignWallNeonCocktail"
+	},
+	{
+		"abr": "neonopensign",
+		"price": 63,
+		"category": "Misc",
+		"defname": "SignWallNeonOpen"
+	},
+	{
+		"abr": "networkedanalyst",
+		"price": 3408,
+		"category": "Misc",
+		"defname": "SMN_NetworkedAnalyst"
+	},
+	{
+		"abr": "networkeddatabase",
+		"price": 1508,
+		"category": "Misc",
+		"defname": "SMN_NetworkedDatabase"
+	},
+	{
+		"abr": "networkedintelligence",
+		"price": 10017,
+		"category": "Misc",
+		"defname": "SMN_NetworkedIntelligence"
+	},
+	{
+		"abr": "neuropump",
+		"price": 642,
+		"category": "Android body parts",
+		"defname": "VREA_NeuroPump"
+	},
+	{
+		"abr": "neutrocasket",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "VREA_NeutroCasket"
+	},
+	{
+		"abr": "neutrodrain",
+		"price": 194,
+		"category": "Furniture",
+		"defname": "VREA_NeutroDrain"
+	},
+	{
+		"abr": "neutrotap",
+		"price": 194,
+		"category": "Furniture",
+		"defname": "VREA_NeutroTap"
+	},
+	{
+		"abr": "neutrofilter",
+		"price": 525,
+		"category": "Android body parts",
+		"defname": "VREA_Neutrofilter"
+	},
+	{
+		"abr": "nissecap",
+		"price": 208,
+		"category": "Headgear",
+		"defname": "BS_Nisse_Cap"
+	},
+	{
+		"abr": "nutrientsolution",
+		"price": 4,
+		"category": "Animal products",
+		"defname": "ATB_NutrientSolution"
+	},
+	{
+		"abr": "nutritionblock",
+		"price": 17,
+		"category": "Animal products",
+		"defname": "ATB_NutritionBlock"
+	},
+	{
+		"abr": "nutritionunit",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "ATB_DroneNutritionUnit"
+	},
+	{
+		"abr": "obelisksign",
+		"price": 284,
+		"category": "Misc",
+		"defname": "SignObelisk"
+	},
+	{
+		"abr": "ogreframe",
+		"price": 8333,
+		"category": "Mechanical",
+		"defname": "BATR_Ogre"
+	},
+	{
+		"abr": "opticalunit",
+		"price": 567,
+		"category": "Android body parts",
+		"defname": "VREA_OpticalUnit"
+	},
+	{
+		"abr": "organiccharger",
+		"price": 1367,
+		"category": "Bionic",
+		"defname": "ATR_OrganicCharger"
+	},
+	{
+		"abr": "pacificationarm",
+		"price": 883,
+		"category": "Mechanical",
+		"defname": "ATR_PacificationArm"
+	},
+	{
+		"abr": "panelsign",
+		"price": 127,
+		"category": "Misc",
+		"defname": "SignPanel"
+	},
+	{
+		"abr": "personaamr",
+		"price": 8808,
+		"category": "JI weapons",
+		"defname": "PBF_ThingDef_Weapon_JI_Gramr"
+	},
+	{
+		"abr": "personaassaulthammer",
+		"price": 8033,
+		"category": "Melee weapons",
+		"defname": "PBF_ThingDef_Weapon_JI_Ormbane"
+	},
+	{
+		"abr": "personachargelance",
+		"price": 8925,
+		"category": "Ranged weapons",
+		"defname": "PBF_ThingDef_Weapon_Gun_ChargeLance"
+	},
+	{
+		"abr": "personachargerifle",
+		"price": 8350,
+		"category": "Ranged weapons",
+		"defname": "PBF_ThingDef_Weapon_Gun_ChargeRifle"
+	},
+	{
+		"abr": "personacryptocrossbow",
+		"price": 8100,
+		"category": "Crypto weapons",
+		"defname": "PBF_ThingDef_Weapon_VFEV_CryptoLightCrossbow"
+	},
+	{
+		"abr": "personacryptohatchet",
+		"price": 8800,
+		"category": "Crypto weapons",
+		"defname": "PBF_ThingDef_Weapon_VFEV_CryptoLightAxe"
+	},
+	{
+		"abr": "personacryptoheavycrossbow",
+		"price": 9033,
+		"category": "Crypto weapons",
+		"defname": "PBF_ThingDef_Weapon_VFEV_CryptoHeavyCrossbow"
+	},
+	{
+		"abr": "personacryptopistol",
+		"price": 8117,
+		"category": "Crypto weapons",
+		"defname": "PBF_ThingDef_Weapon_VFEV_CryptoPistol"
+	},
+	{
+		"abr": "personacryptorifle",
+		"price": 8767,
+		"category": "Crypto weapons",
+		"defname": "PBF_ThingDef_Weapon_VFEV_CryptoRifle"
+	},
+	{
+		"abr": "personaheavycryptoaxe",
+		"price": 9083,
+		"category": "Crypto weapons",
+		"defname": "PBF_ThingDef_Weapon_VFEV_CryptoHeavyAxe"
+	},
+	{
+		"abr": "personaimpactknuckle",
+		"price": 7567,
+		"category": "Melee weapons",
+		"defname": "PBF_ThingDef_Weapon_TE_Eris"
+	},
+	{
+		"abr": "personakineticlance",
+		"price": 9608,
+		"category": "TE weapons",
+		"defname": "PBF_ThingDef_Weapon_TE_KineticLance"
+	},
+	{
+		"abr": "personakineticlongrifle",
+		"price": 8600,
+		"category": "TE weapons",
+		"defname": "PBF_ThingDef_Weapon_TE_KineticLongRifle"
+	},
+	{
+		"abr": "personakineticpistol",
+		"price": 7567,
+		"category": "TE weapons",
+		"defname": "PBF_ThingDef_Weapon_TE_KineticPistol"
+	},
+	{
+		"abr": "personakineticrifle",
+		"price": 8367,
+		"category": "TE weapons",
+		"defname": "PBF_ThingDef_Weapon_TE_KineticRifle"
+	},
+	{
+		"abr": "personamicrowaveemmiter",
+		"price": 9142,
+		"category": "YP weapons",
+		"defname": "PBF_ThingDef_Weapon_YP_GeugGwang"
+	},
+	{
+		"abr": "personamoltenpistol",
+		"price": 7567,
+		"category": "JI weapons",
+		"defname": "PBF_ThingDef_Weapon_JI_Trollsverd"
+	},
+	{
+		"abr": "personamoltenrifle",
+		"price": 8250,
+		"category": "JI weapons",
+		"defname": "PBF_ThingDef_Weapon_JI_Hrunting"
+	},
+	{
+		"abr": "personashardpistol",
+		"price": 7558,
+		"category": "YP weapons",
+		"defname": "PBF_ThingDef_Weapon_YP_SeolHwa"
+	},
+	{
+		"abr": "personashardrifle",
+		"price": 8408,
+		"category": "YP weapons",
+		"defname": "PBF_ThingDef_Weapon_YP_SeoLi"
+	},
+	{
+		"abr": "personasiegegun",
+		"price": 10808,
+		"category": "JI weapons",
+		"defname": "PBF_ThingDef_Weapon_JI_Grendel"
+	},
+	{
+		"abr": "personasiegeshotgun",
+		"price": 8683,
+		"category": "JI weapons",
+		"defname": "PBF_ThingDef_Weapon_JI_Fafnir"
+	},
+	{
+		"abr": "personasingularityprojector",
+		"price": 9617,
+		"category": "TE weapons",
+		"defname": "PBF_ThingDef_Weapon_TE_StormCannon"
+	},
+	{
+		"abr": "personaspikelance",
+		"price": 9908,
+		"category": "YP weapons",
+		"defname": "PBF_ThingDef_Weapon_YP_SangAe"
+	},
+	{
+		"abr": "personasubcore",
+		"price": 3333,
+		"category": "Manufactured",
+		"defname": "VREA_PersonaSubcore"
+	},
+	{
+		"abr": "personasuppressorcannon",
+		"price": 8850,
+		"category": "JI weapons",
+		"defname": "PBF_ThingDef_Weapon_JI_Muspell"
+	},
+	{
+		"abr": "personaswarmer",
+		"price": 8267,
+		"category": "YP weapons",
+		"defname": "PBF_ThingDef_Weapon_YP_SagPung"
+	},
+	{
+		"abr": "personathuddgun",
+		"price": 8742,
+		"category": "TE weapons",
+		"defname": "PBF_ThingDef_Weapon_TE_ThuddGun"
+	},
+	{
+		"abr": "personatorchsword",
+		"price": 7908,
+		"category": "Melee weapons",
+		"defname": "PBF_ThingDef_Weapon_MeleeWeapon_TorchSword"
+	},
+	{
+		"abr": "personavectorshot",
+		"price": 8967,
+		"category": "YP weapons",
+		"defname": "PBF_ThingDef_Weapon_YP_VectorShot"
+	},
+	{
+		"abr": "personavibro-dagger",
+		"price": 7992,
+		"category": "Melee weapons",
+		"defname": "PBF_ThingDef_Weapon_YP_BingJu"
+	},
+	{
+		"abr": "plasteelframe",
+		"price": 1667,
+		"category": "Mechanical",
+		"defname": "ATR_PlatingPlasteel"
+	},
+	{
+		"abr": "psychicassistant",
+		"price": 1000,
+		"category": "Mechanical",
+		"defname": "ATR_PsychicAssistant"
+	},
+	{
+		"abr": "psytrainer(bloodfocus)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPEH_Bloodfocus"
+	},
+	{
+		"abr": "psytrainer(bloodrite)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPEH_BloodRite"
+	},
+	{
+		"abr": "psytrainer(bloodshard)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPEH_BloodShard"
+	},
+	{
+		"abr": "psytrainer(bloodspew)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPEH_BloodSpew"
+	},
+	{
+		"abr": "psytrainer(bloodstorm)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPEH_Bloodstorm"
+	},
+	{
+		"abr": "psytrainer(closewounds)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPEH_CloseWounds"
+	},
+	{
+		"abr": "psytrainer(corpseexplosion)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPEH_CorpseExplosion"
+	},
+	{
+		"abr": "psytrainer(hemodrain)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPEH_Hemodrain"
+	},
+	{
+		"abr": "psytrainer(sanguinespear)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPEH_SanguineSpear"
+	},
+	{
+		"abr": "psytrainer(wordofoffering)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPEH_WordofOffering"
+	},
+	{
+		"abr": "reactor",
+		"price": 950,
+		"category": "Android body parts",
+		"defname": "VREA_Reactor"
+	},
+	{
+		"abr": "refinedframe",
+		"price": 1333,
+		"category": "Mechanical",
+		"defname": "ATR_RefinedFrame"
+	},
+	{
+		"abr": "regenerativepill",
+		"price": 23,
+		"category": "Drugs",
+		"defname": "ATR_RegenerativePill"
+	},
+	{
+		"abr": "rendingarm",
+		"price": 883,
+		"category": "Mechanical",
+		"defname": "ATR_RendingArm"
+	},
+	{
+		"abr": "roadledsign",
+		"price": 475,
+		"category": "Misc",
+		"defname": "SignRoadLED"
+	},
+	{
+		"abr": "roomsign",
+		"price": 33,
+		"category": "Misc",
+		"defname": "RoomSign"
+	},
+	{
+		"abr": "roombaframe",
+		"price": 833,
+		"category": "Mechanical",
+		"defname": "BATR_Roomba"
+	},
+	{
+		"abr": "rotaryautocannon",
+		"price": 6667,
+		"category": "Ranged weapons",
+		"defname": "ATM_RotaryAutocannon"
+	},
+	{
+		"abr": "rotaryshrapnelcannon",
+		"price": 6667,
+		"category": "Ranged weapons",
+		"defname": "ATM_RotaryShrapnelcannon"
+	},
+	{
+		"abr": "rusticarchsign",
+		"price": 261,
+		"category": "Misc",
+		"defname": "SignArchWoodRustic"
+	},
+	{
+		"abr": "sanitaryframe",
+		"price": 1333,
+		"category": "Mechanical",
+		"defname": "ATR_SanitaryFrame"
+	},
+	{
+		"abr": "satellitemodule",
+		"price": 53,
+		"category": "Manufactured",
+		"defname": "RimNauts2_Module_Satellite"
+	},
+	{
+		"abr": "scalpelarm",
+		"price": 883,
+		"category": "Mechanical",
+		"defname": "ATR_ScalpelArm"
+	},
+	{
+		"abr": "scorchpack",
+		"price": 170,
+		"category": "Utility",
+		"defname": "ATR_Apparel_ScorchPack"
+	},
+	{
+		"abr": "serumlab",
+		"price": 692,
+		"category": "Production",
+		"defname": "WVC_SerumCraftingTable"
+	},
+	{
+		"abr": "servitorbrainimplant",
+		"price": 5333,
+		"category": "Prosthetic",
+		"defname": "ServitorBrain"
+	},
+	{
+		"abr": "signalsurge",
+		"price": 33,
+		"category": "Drugs",
+		"defname": "ATR_MechSwarm"
+	},
+	{
+		"abr": "simplerepairstim",
+		"price": 20,
+		"category": "Medicine",
+		"defname": "MHC_RepairStimSimple"
+	},
+	{
+		"abr": "simplesign",
+		"price": 33,
+		"category": "Misc",
+		"defname": "SimpleSign"
+	},
+	{
+		"abr": "skymindnetworktower",
+		"price": 4892,
+		"category": "Misc",
+		"defname": "SMN_SkyMindNetwork"
+	},
+	{
+		"abr": "skymindreceiver",
+		"price": 833,
+		"category": "Bionic",
+		"defname": "SMN_SkyMindReceiver"
+	},
+	{
+		"abr": "skymindrelaytower",
+		"price": 1400,
+		"category": "Misc",
+		"defname": "SMN_SkyMindRelay"
+	},
+	{
+		"abr": "skymindtransceiver",
+		"price": 833,
+		"category": "Bionic",
+		"defname": "SMN_SkyMindTransceiver"
+	},
+	{
+		"abr": "slabsign",
+		"price": 235,
+		"category": "Misc",
+		"defname": "SignSlab"
+	},
+	{
+		"abr": "socialassistant",
+		"price": 1000,
+		"category": "Mechanical",
+		"defname": "ATR_SocialAssistant"
+	},
+	{
+		"abr": "spacesuithelmet",
+		"price": 817,
+		"category": "Headgear",
+		"defname": "RimNauts2_Apparel_SpaceSuit_Head"
+	},
+	{
+		"abr": "spacesuitearmor",
+		"price": 3150,
+		"category": "Armor",
+		"defname": "RimNauts2_Apparel_SpaceSuit_Body"
+	},
+	{
+		"abr": "specializedvoicesynthesizer",
+		"price": 375,
+		"category": "Mechanical",
+		"defname": "ATR_SpecializedVoiceSynthesizer"
+	},
+	{
+		"abr": "stasispill",
+		"price": 13,
+		"category": "Drugs",
+		"defname": "ATR_StasisPill"
+	},
+	{
+		"abr": "stationmodule",
+		"price": 53,
+		"category": "Manufactured",
+		"defname": "RimNauts2_Module_Station"
+	},
+	{
+		"abr": "suppressorframe",
+		"price": 667,
+		"category": "Mechanical",
+		"defname": "ATR_SuppressorFrame"
+	},
+	{
+		"abr": "swarmshell",
+		"price": 292,
+		"category": "Mortar shells",
+		"defname": "ATB_MicroscytherShell"
+	},
+	{
+		"abr": "t1android",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "ATR_Tier1Android"
+	},
+	{
+		"abr": "t2android",
+		"price": 2667,
+		"category": "Animal",
+		"defname": "ATR_Tier2Android"
+	},
+	{
+		"abr": "t3android",
+		"price": 4000,
+		"category": "Animal",
+		"defname": "ATR_Tier3Android"
+	},
+	{
+		"abr": "t4android",
+		"price": 6667,
+		"category": "Animal",
+		"defname": "ATR_Tier4Android"
+	},
+	{
+		"abr": "titanframe",
+		"price": 41667,
+		"category": "Mechanical",
+		"defname": "BATR_Titan"
+	},
+	{
+		"abr": "tortunit",
+		"price": 500,
+		"category": "Animals",
+		"defname": "ATB_DroneTORT"
+	},
+	{
+		"abr": "ultraserumcapsule",
+		"price": 125,
+		"category": "Misc",
+		"defname": "WVC_XenotypeSerumUltraCapsule"
+	},
+	{
+		"abr": "ultranitegestationvat",
+		"price": 1300,
+		"category": "Special",
+		"defname": "WVC_XenotypesAndGenes_UltranitesSpawner"
+	},
+	{
+		"abr": "ultranites",
+		"price": 0,
+		"category": "Manufactured",
+		"defname": "WVC_UniversalFuel"
+	},
+	{
+		"abr": "ultrapack",
+		"price": 200,
+		"category": "Misc",
+		"defname": "WVC_UltraGenepack"
+	},
+	{
+		"abr": "ultratypeserum",
+		"price": 4500,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra"
+	},
+	{
+		"abr": "vacuumsealing",
+		"price": 833,
+		"category": "Mechanical",
+		"defname": "BATR_Vacuum_sealed"
+	},
+	{
+		"abr": "victualassistantchip",
+		"price": 1000,
+		"category": "Mechanical",
+		"defname": "ATR_VictualAssistant"
+	},
+	{
+		"abr": "wallsign",
+		"price": 20,
+		"category": "Misc",
+		"defname": "SignWallBasic"
+	},
+	{
+		"abr": "wallsign",
+		"price": 32,
+		"category": "Misc",
+		"defname": "SignWallLED"
+	},
+	{
+		"abr": "watchdogunit",
+		"price": 1167,
+		"category": "Animals",
+		"defname": "ATB_DroneWatchdog"
+	},
+	{
+		"abr": "wetfloorsign",
+		"price": 16,
+		"category": "Misc",
+		"defname": "SignWetFloor"
+	},
+	{
+		"abr": "woodenarchsign",
+		"price": 201,
+		"category": "Misc",
+		"defname": "SignArchWood"
+	},
+	{
+		"abr": "woodenpanelsign",
+		"price": 140,
+		"category": "Misc",
+		"defname": "SignPanelWood"
+	},
+	{
+		"abr": "woodensigns",
+		"price": 40,
+		"category": "Misc",
+		"defname": "SignWoodenMulti"
+	},
+	{
+		"abr": "w-pack",
+		"price": 167,
+		"category": "Misc",
+		"defname": "WVC_Genepack"
+	},
+	{
+		"abr": "xeno-serum(animakin)",
+		"price": 4483,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_VRE_Animakin_RB"
+	},
+	{
+		"abr": "xeno-serum(animakin)",
+		"price": 3817,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_VRE_Animakin_RB"
+	},
+	{
+		"abr": "xeno-serum(corruptedtitan)",
+		"price": 6900,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_BS_Corrupterd_Titan_RB"
+	},
+	{
+		"abr": "xeno-serum(corruptedtitan)",
+		"price": 6233,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_BS_Corrupterd_Titan_RB"
+	},
+	{
+		"abr": "xeno-serum(deterioratingtitan)",
+		"price": 5417,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_BS_BrokenTitan_RB"
+	},
+	{
+		"abr": "xeno-serum(deterioratingtitan)",
+		"price": 4750,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_BS_BrokenTitan_RB"
+	},
+	{
+		"abr": "xeno-serum(draculmaster)",
+		"price": 7533,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_VU_Dracul_Progenitor_RB"
+	},
+	{
+		"abr": "xeno-serum(draculmaster)",
+		"price": 6867,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_VU_Dracul_Progenitor_RB"
+	},
+	{
+		"abr": "xeno-serum(draculneonate)",
+		"price": 6550,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_VU_Dracul_RB"
+	},
+	{
+		"abr": "xeno-serum(draculneonate)",
+		"price": 5883,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_VU_Dracul_RB"
+	},
+	{
+		"abr": "xeno-serum(draculspawn)",
+		"price": 6450,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_VU_Dracul_Spawn_RB"
+	},
+	{
+		"abr": "xeno-serum(draculspawn)",
+		"price": 5783,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_VU_Dracul_Spawn_RB"
+	},
+	{
+		"abr": "xeno-serum(dracul)",
+		"price": 7467,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_VU_Dracul_Mature_RB"
+	},
+	{
+		"abr": "xeno-serum(dracul)",
+		"price": 6800,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_VU_Dracul_Mature_RB"
+	},
+	{
+		"abr": "xeno-serum(efreet)",
+		"price": 4183,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_AG_Efreet_RB"
+	},
+	{
+		"abr": "xeno-serum(efreet)",
+		"price": 3517,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_AG_Efreet_RB"
+	},
+	{
+		"abr": "xeno-serum(feraldracul)",
+		"price": 5717,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_VU_Dracul_Feral_RB"
+	},
+	{
+		"abr": "xeno-serum(feraldracul)",
+		"price": 5050,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_VU_Dracul_Feral_RB"
+	},
+	{
+		"abr": "xeno-serum(firejotun)",
+		"price": 4550,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_BS_FireJotun_RB"
+	},
+	{
+		"abr": "xeno-serum(firejotun)",
+		"price": 3883,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_BS_FireJotun_RB"
+	},
+	{
+		"abr": "xeno-serum(frankenstein)",
+		"price": 4117,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_VU_Frankenstein_RB"
+	},
+	{
+		"abr": "xeno-serum(frankenstein)",
+		"price": 3450,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_VU_Frankenstein_RB"
+	},
+	{
+		"abr": "xeno-serum(frostjotun)",
+		"price": 5167,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_BS_FrostJotunInBlue_RB"
+	},
+	{
+		"abr": "xeno-serum(frostjotun)",
+		"price": 4500,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_BS_FrostJotun_RB"
+	},
+	{
+		"abr": "xeno-serum(frostjotun)",
+		"price": 4500,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_BS_FrostJotunInBlue_RB"
+	},
+	{
+		"abr": "xeno-serum(frostjotun)",
+		"price": 3833,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_BS_FrostJotun_RB"
+	},
+	{
+		"abr": "xeno-serum(gatekeeper)",
+		"price": 6183,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_VU_Gatekeeper_RB"
+	},
+	{
+		"abr": "xeno-serum(gatekeeper)",
+		"price": 5517,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_VU_Gatekeeper_RB"
+	},
+	{
+		"abr": "xeno-serum(gauranlenkin)",
+		"price": 4483,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_VRE_Gauranlenkin_RB"
+	},
+	{
+		"abr": "xeno-serum(gauranlenkin)",
+		"price": 3817,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_VRE_Gauranlenkin_RB"
+	},
+	{
+		"abr": "xeno-serum(genie)",
+		"price": 3483,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_Genie_RB"
+	},
+	{
+		"abr": "xeno-serum(genie)",
+		"price": 2817,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_Genie_RB"
+	},
+	{
+		"abr": "xeno-serum(ghoul)",
+		"price": 4900,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_VU_Ghoul_RB"
+	},
+	{
+		"abr": "xeno-serum(ghoul)",
+		"price": 4233,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_VU_Ghoul_RB"
+	},
+	{
+		"abr": "xeno-serum(golemkind)",
+		"price": 5300,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_WVC_Golemkind_RB"
+	},
+	{
+		"abr": "xeno-serum(golemkind)",
+		"price": 4633,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_WVC_Golemkind_RB"
+	},
+	{
+		"abr": "xeno-serum(greatogre)",
+		"price": 4317,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_BS_GreatOgre_RB"
+	},
+	{
+		"abr": "xeno-serum(greatogre)",
+		"price": 3650,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_BS_GreatOgre_RB"
+	},
+	{
+		"abr": "xeno-serum(half-vampire)",
+		"price": 4950,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_VU_Dracul_HalfVampire_RB"
+	},
+	{
+		"abr": "xeno-serum(half-vampire)",
+		"price": 4283,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_VU_Dracul_HalfVampire_RB"
+	},
+	{
+		"abr": "xeno-serum(heirofaurgelmir)",
+		"price": 5550,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_BS_Ymir_RB"
+	},
+	{
+		"abr": "xeno-serum(heirofaurgelmir)",
+		"price": 4883,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_BS_Ymir_RB"
+	},
+	{
+		"abr": "xeno-serum(heirofsurtr)",
+		"price": 5183,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_BS_Surtr_RB"
+	},
+	{
+		"abr": "xeno-serum(heirofsurtr)",
+		"price": 4517,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_BS_Surtr_RB"
+	},
+	{
+		"abr": "xeno-serum(hellguard)",
+		"price": 6250,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_VU_Hellguard_RB"
+	},
+	{
+		"abr": "xeno-serum(hellguard)",
+		"price": 5583,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_VU_Hellguard_RB"
+	},
+	{
+		"abr": "xeno-serum(highmate)",
+		"price": 3950,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_Highmate_RB"
+	},
+	{
+		"abr": "xeno-serum(highmate)",
+		"price": 3283,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_Highmate_RB"
+	},
+	{
+		"abr": "xeno-serum(hiveling)",
+		"price": 4450,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_AG_Hiveling_RB"
+	},
+	{
+		"abr": "xeno-serum(hiveling)",
+		"price": 3783,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_AG_Hiveling_RB"
+	},
+	{
+		"abr": "xeno-serum(hussar)",
+		"price": 3967,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_Hussar_RB"
+	},
+	{
+		"abr": "xeno-serum(hussar)",
+		"price": 3300,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_Hussar_RB"
+	},
+	{
+		"abr": "xeno-serum(imp)",
+		"price": 5850,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_VU_Imp_RB"
+	},
+	{
+		"abr": "xeno-serum(imp)",
+		"price": 5183,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_VU_Imp_RB"
+	},
+	{
+		"abr": "xeno-serum(lapis)",
+		"price": 4617,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_AG_Lapis_RB"
+	},
+	{
+		"abr": "xeno-serum(lapis)",
+		"price": 3950,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_AG_Lapis_RB"
+	},
+	{
+		"abr": "xeno-serum(lycanthrope)",
+		"price": 5083,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_VU_Lycantrope_RB"
+	},
+	{
+		"abr": "xeno-serum(lycanthrope)",
+		"price": 4417,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_VU_Lycantrope_RB"
+	},
+	{
+		"abr": "xeno-serum(mechakin)",
+		"price": 7167,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_WVC_Meca_RB"
+	},
+	{
+		"abr": "xeno-serum(mechakin)",
+		"price": 6500,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_WVC_Meca_RB"
+	},
+	{
+		"abr": "xeno-serum(minddevourer)",
+		"price": 4083,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_AG_MindDevourer_RB"
+	},
+	{
+		"abr": "xeno-serum(minddevourer)",
+		"price": 3417,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_AG_MindDevourer_RB"
+	},
+	{
+		"abr": "xeno-serum(nosferatu)",
+		"price": 6233,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_VU_Nosferatu_RB"
+	},
+	{
+		"abr": "xeno-serum(nosferatu)",
+		"price": 5567,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_VU_Nosferatu_RB"
+	},
+	{
+		"abr": "xeno-serum(ocularkin)",
+		"price": 4500,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_VRE_Ocularkin_RB"
+	},
+	{
+		"abr": "xeno-serum(ocularkin)",
+		"price": 3833,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_VRE_Ocularkin_RB"
+	},
+	{
+		"abr": "xeno-serum(ogre)",
+		"price": 4250,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_BS_Ogre_RB"
+	},
+	{
+		"abr": "xeno-serum(ogre)",
+		"price": 3583,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_BS_Ogre_RB"
+	},
+	{
+		"abr": "xeno-serum(panneling)",
+		"price": 5333,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_Panneling_RB"
+	},
+	{
+		"abr": "xeno-serum(panneling)",
+		"price": 4667,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_Panneling_RB"
+	},
+	{
+		"abr": "xeno-serum(poluxkin)",
+		"price": 4567,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_VRE_Poluxkin_RB"
+	},
+	{
+		"abr": "xeno-serum(poluxkin)",
+		"price": 3900,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_VRE_Poluxkin_RB"
+	},
+	{
+		"abr": "xeno-serum(returned)",
+		"price": 4567,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_VU_Returned_RB"
+	},
+	{
+		"abr": "xeno-serum(returned)",
+		"price": 3900,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_VU_Returned_RB"
+	},
+	{
+		"abr": "xeno-serum(rogkind)",
+		"price": 7250,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_WVC_RogueFormer_RB"
+	},
+	{
+		"abr": "xeno-serum(rogkind)",
+		"price": 6583,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_WVC_RogueFormer_RB"
+	},
+	{
+		"abr": "xeno-serum(sanguophage)",
+		"price": 5850,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_Sanguophage_RB"
+	},
+	{
+		"abr": "xeno-serum(sanguophage)",
+		"price": 5183,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_Sanguophage_RB"
+	},
+	{
+		"abr": "xeno-serum(succubus)",
+		"price": 5617,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_VU_Succubus_RB"
+	},
+	{
+		"abr": "xeno-serum(succubus)",
+		"price": 4950,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_VU_Succubus_RB"
+	},
+	{
+		"abr": "xeno-serum(svartalf)",
+		"price": 5000,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_BS_Svartalf_RB"
+	},
+	{
+		"abr": "xeno-serum(svartalf)",
+		"price": 4333,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_BS_Svartalf_RB"
+	},
+	{
+		"abr": "xeno-serum(taukai)",
+		"price": 4250,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_AG_Taukai_RB"
+	},
+	{
+		"abr": "xeno-serum(taukai)",
+		"price": 3583,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_AG_Taukai_RB"
+	},
+	{
+		"abr": "xeno-serum(throwex)",
+		"price": 7117,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_WVC_GeneThrower_RB"
+	},
+	{
+		"abr": "xeno-serum(throwex)",
+		"price": 6450,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_WVC_GeneThrower_RB"
+	},
+	{
+		"abr": "xeno-serum(waster)",
+		"price": 3883,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_Waster_RB"
+	},
+	{
+		"abr": "xeno-serum(waster)",
+		"price": 3217,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_Waster_RB"
+	},
+	{
+		"abr": "xeno-serum(whiterose)",
+		"price": 4933,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_VU_WhiteRose_RB"
+	},
+	{
+		"abr": "xeno-serum(whiterose)",
+		"price": 4267,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Ultra_VU_WhiteRose_RB"
+	},
+	{
+		"abr": "xenotypenullifierserum",
+		"price": 2117,
+		"category": "Base serums",
+		"defname": "WVC_XenotypeSerum_Nullifier"
+	},
+	{
+		"abr": "xenotypenullifierserum",
+		"price": 4500,
+		"category": "Ultra serums",
+		"defname": "WVC_XenotypeSerum_Baseliner"
 	}
 	],
-	"total": 2502
+	"total": 2898
 }

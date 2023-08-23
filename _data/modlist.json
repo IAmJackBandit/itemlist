@@ -6,16 +6,22 @@
     "version": "1.5.0.0"
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Achtung!",
-    "steamId": "730936602",
-    "version": "3.5.2.0"
-  },
-  {
     "author": "RedMattis",
     "name": "Big and Small + Prerequisites Framework",
     "steamId": "2925432336",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Achtung!",
+    "steamId": "730936602",
+    "version": "3.6.1.0"
   },
   {
     "author": "legodude17 and Oskar Potocki",
@@ -76,6 +82,12 @@
     "name": "Alpha Biomes",
     "steamId": "1841354677",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk, ISOREX and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Android",
+    "steamId": "2975771801",
+    "version": "1.1.0.0"
   },
   {
     "author": "Allie and Sarg",
@@ -150,6 +162,18 @@
     "version": null
   },
   {
+    "author": "Killathon",
+    "name": "Mechanical Humanlikes Core",
+    "steamId": "2974524016",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Killathon",
+    "name": "MH: Android Tiers Core",
+    "steamId": "2974536022",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "RedMattis",
     "name": "Big and Small Genes",
     "steamId": null,
@@ -214,12 +238,6 @@
     "name": "Consciously Malnourished",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
   },
   {
     "author": "tikubonn",
@@ -327,13 +345,13 @@
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
-    "version": "2.5.0.0"
+    "version": "2.6.0.0"
   },
   {
     "author": "Neronix17",
     "name": "Tabula Rasa",
     "steamId": "1660622094",
-    "version": "1.0.8612.19583"
+    "version": "1.0.8628.15310"
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -531,7 +549,7 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.12.1.0"
+    "version": "1.13.0.0"
   },
   {
     "author": "rooki1",
@@ -597,7 +615,13 @@
     "author": "telardo",
     "name": "Romance On The Rim",
     "steamId": "2654432921",
-    "version": "1.2.3.0"
+    "version": "1.2.4.0"
+  },
+  {
+    "author": "RedMattis",
+    "name": "Big and Small Races",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Rooboid",
@@ -705,7 +729,7 @@
     "author": "José Ángel Soler Ortiz",
     "name": "TraderGen",
     "steamId": "2804121197",
-    "version": "0.7.0.0"
+    "version": "0.7.1.0"
   },
   {
     "author": "Superniquito",
@@ -1089,7 +1113,7 @@
     "author": "ChJees",
     "name": "Supreme Melee (Continued)",
     "steamId": "2311299987",
-    "version": "1.4.2"
+    "version": "1.4.3"
   },
   {
     "author": "Murmur",
@@ -1425,7 +1449,7 @@
     "author": "iamrespawn",
     "name": "Prosthetic No Missing Body Parts (Continued)",
     "steamId": "2739055353",
-    "version": "1.4.3"
+    "version": "1.4.4"
   },
   {
     "author": "RebelRabbit and Taranchuk",
@@ -1760,32 +1784,14 @@
   {
     "author": "Smash Phil",
     "name": "Vehicle Framework",
-    "steamId": "",
-    "version": "1.5.1336"
+    "steamId": "3014915404",
+    "version": "1.5.1351"
   },
   {
     "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
     "name": "Vanilla Vehicles Expanded",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "hodlhodl",
-    "name": "ToolkitCore",
-    "steamId": "2018368654",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "Twitch Toolkit",
-    "steamId": "1718525787",
-    "version": "2.0.10.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "6.3.0.0.biotech.b12"
   },
   {
     "author": "sindre0830",
@@ -1808,6 +1814,138 @@
   {
     "author": "Sam's Litle RimRims",
     "name": "Pannelings",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Legodude17",
+    "name": "Vanilla Backstories Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "zhrock11",
+    "name": "Stackable Chunks [1.4+]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DarkFlame7",
+    "name": "Signs and Comments",
+    "steamId": "2576219203",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "sindre0830",
+    "name": "RimNauts 2",
+    "steamId": "2880599514",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "StatistNo1",
+    "name": "Persona Bond Forge",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Astrogator",
+    "name": "Indentured Servitude",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "Hunt for Me",
+    "steamId": "1593245720",
+    "version": "3.5.4.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Hair Extensions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Killathon",
+    "name": "MH: Android Tiers",
+    "steamId": "2974546748",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Killathon",
+    "name": "MH: Mechanical Biomimetics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Killathon",
+    "name": "MH: Military Tiers",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Killathon",
+    "name": "SkyMind Network",
+    "steamId": "2974555614",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ARandomCogboi",
+    "name": "Servitor Brain Chip",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "\"FerretWithACatHat\"",
+    "name": "Ferret's Shitty Early-Game Batteries",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.3.0.0.biotech.b12"
+  },
+  {
+    "author": "DarkFlame7",
+    "name": "Biotech Cloning",
+    "steamId": "2881790485",
+    "version": "0.2.0.0"
+  },
+  {
+    "author": "SFLegion",
+    "name": "Genomics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sergkart",
+    "name": "WVC - Xenotypes and Genes",
+    "steamId": "2886992038",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk, Reann Shepard and Sir Van",
+    "name": "Vanilla Psycasts Expanded - Hemosage",
+    "steamId": "2990596478",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "Paradies",
+    "name": "Use Resurrector Mech Serum On Rotten or Skeleton People",
     "steamId": null,
     "version": null
   }
