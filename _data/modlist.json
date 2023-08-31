@@ -276,6 +276,12 @@
     "version": null
   },
   {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Sarg, erdelf, Oskar Potocki, Luizi and Reann Shepard",
     "name": "Vanilla Genetics Expanded",
     "steamId": "2801160906",
@@ -286,12 +292,6 @@
     "name": "Vanilla Furniture Expanded - Security",
     "steamId": "1845154007",
     "version": "1.1.1.0"
-  },
-  {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Complex Jobs",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "FrozenSnowFox",
@@ -792,12 +792,6 @@
     "version": null
   },
   {
-    "author": "Alan Dariva and Usagirei",
-    "name": "More Planning [1.4]",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, xrushha and SmashPhil",
     "name": "Vanilla Apparel Expanded — Accessories",
     "steamId": null,
@@ -1054,5 +1048,95 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "6.3.0.0.biotech.b12"
+  },
+  {
+    "author": "Crustypeanut",
+    "name": "War Crimes Expanded 2 Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.0"
+  },
+  {
+    "author": "Grimm",
+    "name": "Un-Limited",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Paradies",
+    "name": "Use Resurrector Mech Serum On Rotten or Skeleton People",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Madara Uchiha",
+    "name": "Undraft After Tucking",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Katsudon",
+    "name": "UI Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "leeh",
+    "name": "Ugly Together",
+    "steamId": "2884233923",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "MarvinKosh",
+    "name": "Ugh You Got Me",
+    "steamId": "1542424705",
+    "version": "1.0.8325.19264"
+  },
+  {
+    "author": "Trickity",
+    "name": "T's Monster Hunter Armor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Trickity",
+    "name": "T's Samurai Faction Styles Standalone",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Superniquito",
+    "name": "Trait and Backstory Icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CaptainGeorge",
+    "name": "Traders Have Money",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Processor Framework",
+    "steamId": "2633514537",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "LifeisGame.inc and Taranchuk",
+    "name": "The Saiyans",
+    "steamId": "2768874080",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "LifeisGame.inc and Taranchuk",
+    "name": "World of Naruto",
+    "steamId": "3025338958",
+    "version": "1.0.0.0"
   }
 ]
