@@ -6,6 +6,24 @@
     "version": "2.4.2.0"
   },
   {
+    "author": "ROO",
+    "name": "Don't burn my cpu Shamblers!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DeeColon",
+    "name": "Dee's Anomalies",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.6+640efbf646275dafd663d0b6efbacb2a67d02d30"
+  },
+  {
     "author": "Taranchuk",
     "name": "TaranMagicFramework",
     "steamId": null,
@@ -30,12 +48,6 @@
     "version": "0.0.0.0"
   },
   {
-    "author": "LifeisGame.inc and Taranchuk",
-    "name": "World of Naruto",
-    "steamId": "3025338958",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "RedMattis",
     "name": "Big and Small - Framework",
     "steamId": "2925432336",
@@ -46,24 +58,6 @@
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "ChJees",
-    "name": "Androids for RW 1.6",
-    "steamId": "2889326293",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Peptide",
-    "name": "Androids Expanded for RW 1.6",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Xercaine",
-    "name": "Androids Expanded: Think Tank (Continued)",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Zaljerem",
@@ -294,12 +288,6 @@
     "version": null
   },
   {
-    "author": "Nova and Company",
-    "name": "RimWorld Together",
-    "steamId": "3005289691",
-    "version": "1.0.0+bc7d5c669ba76bd6e622babf6bc120df52cdfa3b"
-  },
-  {
     "author": "Victor",
     "name": "Vanilla Genetics Expanded - Genome Extracting Table ALL Genomes",
     "steamId": null,
@@ -310,18 +298,6 @@
     "name": "Void Extractor虚空提取器",
     "steamId": "3555744865",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "DeeColon",
-    "name": "Dee's Anomalies",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ROO",
-    "name": "Don't burn my cpu Shamblers!",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "nry",
@@ -376,6 +352,12 @@
     "name": "Gunplay",
     "steamId": "2034896549",
     "version": "1.0.379.0018"
+  },
+  {
+    "author": "Roolo",
+    "name": "Dual Wield",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "YAYO",
@@ -1380,12 +1362,6 @@
     "version": "1.6.0"
   },
   {
-    "author": "Edern",
-    "name": "No Random Apparel on Ideology Edit",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Nina.Goblin",
     "name": "No One Left Behind (1.6)",
     "steamId": "3536586707",
@@ -1630,12 +1606,6 @@
     "name": "I'm Trying To Save You! (Pawn Dressing Rework)",
     "steamId": "3534863993",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "kilaXphantom and Jdalt40",
-    "name": "Ideology symbols as Ideograms",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "HaiLuan",
@@ -1926,12 +1896,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "DimonSever000",
-    "name": "Cybranian - Ideology Virtues",
-    "steamId": "3459205505",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "cyanobot",
     "name": "Cyanobot's Genes",
     "steamId": "2889844371",
@@ -2038,12 +2002,6 @@
     "name": "Bug Off",
     "steamId": "3551851980",
     "version": "1.4.0.0"
-  },
-  {
-    "author": "Fuu Chan",
-    "name": "Blood Animations",
-    "steamId": "3228047321",
-    "version": "1.0.0.0"
   },
   {
     "author": "Zaljerem",
@@ -2324,6 +2282,156 @@
   {
     "author": "Crimson",
     "name": "[CF] Anomaly Upscaled",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and SmashPhil",
+    "name": "Vanilla Weapons Expanded - Makeshift",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk, Reann Shepard and Sarg",
+    "name": "Vanilla Vehicles Expanded",
+    "steamId": "3014906877",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
+    "name": "Vanilla Vehicles Expanded - Tier 3",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FlatronWS",
+    "name": "Titans",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sam",
+    "name": "Tilled Soil",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "al9000",
+    "name": "Tastier Vanilla Clothes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kenji",
+    "name": "Super Cell Power Generator",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LukaMoria",
+    "name": "Soul Devouring Ritual",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Show Me Your Hands",
+    "steamId": "2475965842",
+    "version": "1.6.0"
+  },
+  {
+    "author": "Oktober",
+    "name": "Oktober's Scrap-Tek",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BobnikTheIII",
+    "name": "ME(b) - Utilities",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BobnikTheIII",
+    "name": "ME(b) - Turians",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "TSA",
+    "name": "Intellectual Matters",
+    "steamId": "3570236251",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "echotidefish",
+    "name": "Ghoul Can Cryptosleep [Forked]",
+    "steamId": "3568498636",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "FCP - Fallout Races: Playable Supermutant (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Carny Senpai",
+    "name": "Enable Oversized Weapons",
+    "steamId": "2543371889",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Marqin",
+    "name": "Desiccated Corpse Resurrection",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Si-Cafe",
+    "name": "Artificial Water Place",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Props - Parks and Gardens",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "sulusdacor, james76543, Meltup and leugimimi",
+    "name": "Advanced Power Plus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "S16",
+    "name": "[S16] Vanilla Weapons HD",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "S16",
+    "name": "[S16] Royalty Weapons HD",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Uncle Boris' - Brainwash Chair",
+    "steamId": "2885223720",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Vanilla Expanded Extra Embrasures",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "[CZK] Eye Prosthetics (Continued)",
     "steamId": null,
     "version": null
   }
