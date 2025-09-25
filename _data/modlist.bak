@@ -6,16 +6,40 @@
     "version": "2.4.2.0"
   },
   {
+    "author": "Taranchuk",
+    "name": "TaranMagicFramework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "echotidefish",
+    "name": "Crypto Coffins [Forked]",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "seobongzu",
     "name": "[sbz] Archotech Brain",
     "steamId": null,
     "version": null
   },
   {
+    "author": "TSA",
+    "name": "Torture Pod",
+    "steamId": "3572173918",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "LifeisGame.inc and Taranchuk",
+    "name": "World of Naruto",
+    "steamId": "3025338958",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "RedMattis",
     "name": "Big and Small - Framework",
     "steamId": "2925432336",
-    "version": "1.0.0+ab44d817fe5f80b6ad9af710431d569eb9ea703c"
+    "version": "1.0.0+e2cc95291b2cd9a756a47d708c4d731f2d70c024"
   },
   {
     "author": "erdelf",
@@ -525,12 +549,6 @@
     "author": "ghastlyskull",
     "name": "Visible Cybernetics",
     "steamId": "3262173908",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Nalzurin",
-    "name": "Viltrumite Xenotype",
-    "steamId": "3329507126",
     "version": "1.0.0.0"
   },
   {
@@ -1894,12 +1912,6 @@
     "name": "Deathless Means Deathless",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Dr-Ake",
-    "name": "Deadpool's Healing Factor",
-    "steamId": "3547368865",
-    "version": "0.0.2.0"
   },
   {
     "author": "WiseClock and fork: AtrociousCollector",

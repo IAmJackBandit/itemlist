@@ -4373,6 +4373,172 @@
       },
       "defName": "HAR_Xenophobia",
       "name": "xenophile"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is able to mold chakra.",
+      "stats": [
+        "+$600 market value"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+$600 market value"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "World of Naruto",
+        "karmaTypeForAdding": null
+      },
+      "defName": "WN_Chakra",
+      "name": "chakra"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is able to do handseals at immense speeds.",
+      "stats": [
+        "+10% global work speed",
+        "-50.0% Chakra cast time multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+10% global work speed",
+          "-50.0% Chakra cast time multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "World of Naruto",
+        "karmaTypeForAdding": null
+      },
+      "defName": "WN_FastHandseals",
+      "name": "fasthandseals"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy have an aptitude towards Taijutsu at the cost of being poor at all other types of jutsu. Enables use of the Gates technique",
+      "stats": [
+        "+4 melee",
+        "-90.0% Ninjutsu XP rate gain multiplier",
+        "-90.0% Genjutsu XP rate gain multiplier",
+        "+15% melee attack speed factor",
+        "+10.0 melee dodge chance",
+        "x70% incoming damage multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 melee",
+          "-90.0% Ninjutsu XP rate gain multiplier",
+          "-90.0% Genjutsu XP rate gain multiplier",
+          "+15% melee attack speed factor",
+          "+10.0 melee dodge chance",
+          "x70% incoming damage multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "World of Naruto",
+        "karmaTypeForAdding": null
+      },
+      "defName": "WN_TaijutsuSpecialist",
+      "name": "taijutsuspecialist"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a distant descendant of Indra Otsusuki and carries some of his chakra",
+      "stats": [
+        "+25 Max Chakra energy",
+        "+45.0% Genjutsu damage resistance",
+        "+75.0% Ninjutsu XP rate gain multiplier",
+        "-25.0% Chakra cast time multiplier",
+        "+25.0% Chakra damage multiplier",
+        "+75% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+25 Max Chakra energy",
+          "+45.0% Genjutsu damage resistance",
+          "+75.0% Ninjutsu XP rate gain multiplier",
+          "-25.0% Chakra cast time multiplier",
+          "+25.0% Chakra damage multiplier",
+          "+75% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "World of Naruto",
+        "karmaTypeForAdding": null
+      },
+      "defName": "WN_IndrasChakra",
+      "name": "indraschakra"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a distant descendant of Ashura Otsusuki and carries some of his chakra",
+      "stats": [
+        "+50 Max Chakra energy",
+        "+30.0% Genjutsu damage resistance",
+        "-25.0% Chakra cast time multiplier",
+        "+25.0% Ninjutsu damage resistance",
+        "x60% incoming damage multiplier"
+      ],
+      "conflicts": [
+        "abrasive",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "abrasive",
+          "psychopath"
+        ],
+        "stats": [
+          "+50 Max Chakra energy",
+          "+30.0% Genjutsu damage resistance",
+          "-25.0% Chakra cast time multiplier",
+          "+25.0% Ninjutsu damage resistance",
+          "x60% incoming damage multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "World of Naruto",
+        "karmaTypeForAdding": null
+      },
+      "defName": "WN_AshurasChakra",
+      "name": "ashuraschakra"
     }
   ],
   "races": [
