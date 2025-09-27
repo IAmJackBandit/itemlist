@@ -6,6 +6,18 @@
     "version": "2.4.2.0"
   },
   {
+    "author": "ROO",
+    "name": "Don't burn my cpu Shamblers!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DeeColon",
+    "name": "Dee's Anomalies",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "legodude17 and Oskar Potocki",
     "name": "Vanilla Backgrounds Expanded",
     "steamId": "2775017012",
@@ -44,18 +56,6 @@
   {
     "author": "Oskar Potocki, Taranchuk and xrushha",
     "name": "Vanilla Ideology Expanded - Anima Theme",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "DeeColon",
-    "name": "Dee's Anomalies",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ROO",
-    "name": "Don't burn my cpu Shamblers!",
     "steamId": null,
     "version": null
   },
@@ -1978,12 +1978,6 @@
     "name": "Bigger Gravships (and other Odyssey spaceship related settings)",
     "steamId": "3522759531",
     "version": "0.0.0.0"
-  },
-  {
-    "author": "Casper",
-    "name": "Better prosthetics",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Madara Uchiha and Krzysztof Zawisla",

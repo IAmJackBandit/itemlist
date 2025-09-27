@@ -4455,43 +4455,43 @@
 	{
 		"abr": "bioniceye",
 		"price": 1200,
-		"category": "Bionic",
+		"category": "Bionics",
 		"defname": "BionicEye"
 	},
 	{
 		"abr": "bionicear",
 		"price": 467,
-		"category": "Bionic",
+		"category": "Bionics",
 		"defname": "BionicEar"
 	},
 	{
 		"abr": "bionicarm",
 		"price": 1700,
-		"category": "Bionic",
+		"category": "Bionics",
 		"defname": "BionicArm"
 	},
 	{
 		"abr": "bionicleg",
 		"price": 1700,
-		"category": "Bionic",
+		"category": "Bionics",
 		"defname": "BionicLeg"
 	},
 	{
 		"abr": "bionicspine",
 		"price": 1667,
-		"category": "Bionic",
+		"category": "Bionics",
 		"defname": "BionicSpine"
 	},
 	{
 		"abr": "bionicjaw",
 		"price": 633,
-		"category": "Bionic",
+		"category": "Bionics",
 		"defname": "BionicJaw"
 	},
 	{
 		"abr": "bionictongue",
 		"price": 633,
-		"category": "Bionic",
+		"category": "Bionics",
 		"defname": "BionicTongue"
 	},
 	{
@@ -4521,19 +4521,19 @@
 	{
 		"abr": "simpleprostheticleg",
 		"price": 717,
-		"category": "Prosthetic",
+		"category": "Simple prostheses",
 		"defname": "SimpleProstheticLeg"
 	},
 	{
 		"abr": "simpleprostheticarm",
 		"price": 717,
-		"category": "Prosthetic",
+		"category": "Simple prostheses",
 		"defname": "SimpleProstheticArm"
 	},
 	{
 		"abr": "cochlearimplant",
 		"price": 300,
-		"category": "Prosthetic",
+		"category": "Simple prostheses",
 		"defname": "CochlearImplant"
 	},
 	{
@@ -4605,13 +4605,13 @@
 	{
 		"abr": "bionicheart",
 		"price": 1717,
-		"category": "Bionic",
+		"category": "",
 		"defname": "BionicHeart"
 	},
 	{
 		"abr": "bionicstomach",
 		"price": 1308,
-		"category": "Bionic",
+		"category": "Borg",
 		"defname": "BionicStomach"
 	},
 	{
@@ -4935,7 +4935,7 @@
 	{
 		"abr": "prostheticheart",
 		"price": 383,
-		"category": "Prosthetic",
+		"category": "",
 		"defname": "SimpleProstheticHeart"
 	},
 	{
@@ -13693,12 +13693,6 @@
 		"defname": "BionicBladder"
 	},
 	{
-		"abr": "bionicbrain",
-		"price": 567,
-		"category": "Bionic",
-		"defname": "BionicBrain"
-	},
-	{
 		"abr": "bionicdrillarm",
 		"price": 2608,
 		"category": "Bionic",
@@ -13729,34 +13723,16 @@
 		"defname": "FSFBionicKidney"
 	},
 	{
-		"abr": "bionickidney",
-		"price": 567,
-		"category": "Bionic",
-		"defname": "BionicKidney"
-	},
-	{
 		"abr": "bionicliver",
 		"price": 1308,
 		"category": "Bionic",
 		"defname": "FSFBionicLiver"
 	},
 	{
-		"abr": "bionicliver",
-		"price": 567,
-		"category": "Bionic",
-		"defname": "BionicLiver"
-	},
-	{
 		"abr": "bioniclung",
 		"price": 1383,
 		"category": "Bionic",
 		"defname": "FSFBionicLung"
-	},
-	{
-		"abr": "bioniclung",
-		"price": 567,
-		"category": "Bionic",
-		"defname": "BionicLung"
 	},
 	{
 		"abr": "bionicpowerarm",
@@ -19757,7 +19733,7 @@
 		"price": 3667,
 		"category": "Ranged weapons",
 		"defname": "VWEL_Gun_SalvagedLaserSniperRifle"
-	}
+	},
 	],
-	"total": 3890
+	"total": 3887
 }
