@@ -1966,116 +1966,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Psycasts Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VPE_Thrall",
-      "name": "thrall"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Fishing Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VCEF_Fisherman",
-      "name": "fisherman"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Ideology Expanded - Memes and Structures",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VME_Elder",
-      "name": "elder"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is entombed in a warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Because of how bulky the armor is and how much energy it takes to use it, Timmy is not capable of doing any work.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Factions Expanded - Pirates",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VFEP_WarcasketTrait",
-      "name": "warcasket"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy was entombed in a warcasket, and then brutally pulled out of one. The neural and nerve damage from being unplugged is so severe that Timmy is in constant, agonizing pain and can barely assemble his thoughts. Only installing Timmy back in a warcasket can cure the symptoms.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Factions Expanded - Pirates",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VFEP_Shellcasket",
-      "name": "shellcasket"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
       "description": "Timmy is able to use oversized weapons.",
       "stats": [],
       "conflicts": [],
@@ -2091,6 +1981,610 @@
       },
       "defName": "BS_Giant",
       "name": "giant"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null
+      },
+      "defName": "HAR_Xenophobia",
+      "name": "xenophobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null
+      },
+      "defName": "HAR_Xenophobia",
+      "name": "xenophile"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy has a very strong connection with the Force. he is extremely sensitive to psychic phenomena.",
+      "stats": [
+        "+80% psychic sensitivity"
+      ],
+      "conflicts": [
+        "psychicallyhypersensitive",
+        "psychicallysensitive",
+        "psychicallydull",
+        "psychicallydeaf"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "psychicallyhypersensitive",
+          "psychicallysensitive",
+          "psychicallydull",
+          "psychicallydeaf"
+        ],
+        "stats": [
+          "+80% psychic sensitivity"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force Standalone",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Force_NeutralSensitivity",
+      "name": "majorforcesensitivity"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy has a strong connection with the Force. he is sensitive to psychic phenomena.",
+      "stats": [
+        "+80% psychic sensitivity"
+      ],
+      "conflicts": [
+        "psychicallyhypersensitive",
+        "psychicallysensitive",
+        "psychicallydull",
+        "psychicallydeaf"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "psychicallyhypersensitive",
+          "psychicallysensitive",
+          "psychicallydull",
+          "psychicallydeaf"
+        ],
+        "stats": [
+          "+80% psychic sensitivity"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force Standalone",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Force_NeutralSensitivity",
+      "name": "mediumforcesensitivity"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a connection with the Force. A metaphysical, spiritual, binding, and ubiquitous power that held enormous importance for both the Jedi and Sith monastic orders.",
+      "stats": [
+        "+40% psychic sensitivity"
+      ],
+      "conflicts": [
+        "psychicallyhypersensitive",
+        "psychicallysensitive",
+        "psychicallydull",
+        "psychicallydeaf"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "psychicallyhypersensitive",
+          "psychicallysensitive",
+          "psychicallydull",
+          "psychicallydeaf"
+        ],
+        "stats": [
+          "+40% psychic sensitivity"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force Standalone",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Force_NeutralSensitivity",
+      "name": "forcesensitivity"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy has a weaker connection to the Force compared to other force sensitives. he isn't as affected by psychic phenomena.",
+      "stats": [
+        "+20% psychic sensitivity"
+      ],
+      "conflicts": [
+        "psychicallyhypersensitive",
+        "psychicallysensitive",
+        "psychicallydull",
+        "psychicallydeaf"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "psychicallyhypersensitive",
+          "psychicallysensitive",
+          "psychicallydull",
+          "psychicallydeaf"
+        ],
+        "stats": [
+          "+20% psychic sensitivity"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force Standalone",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Force_NeutralSensitivity",
+      "name": "dullforcesensitivity"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy has a very strong affinity with the light side of the Force.",
+      "stats": [
+        "+2.00 light side attunement"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2.00 light side attunement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force Standalone",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Force_LightAffinity",
+      "name": "majorlightsideaffinity"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a strong affinity with the light side of the Force.",
+      "stats": [
+        "+0.40 light side attunement"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.40 light side attunement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force Standalone",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Force_LightAffinity",
+      "name": "lightsideaffinity"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy has a weak affinity with the light side of the Force.",
+      "stats": [
+        "+0.20 light side attunement"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.20 light side attunement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force Standalone",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Force_LightAffinity",
+      "name": "minorlightsideaffinity"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy has a very strong affinity with the dark side of the Force.",
+      "stats": [
+        "+0.80 dark side corruption"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.80 dark side corruption"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force Standalone",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Force_DarkAffinity",
+      "name": "majordarksideaffinity"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a strong affinity with the dark side of the Force.",
+      "stats": [
+        "+0.40 dark side corruption"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.40 dark side corruption"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force Standalone",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Force_DarkAffinity",
+      "name": "darksideaffinity"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy has a weak affinity with the dark side of the Force.",
+      "stats": [
+        "+0.20 dark side corruption"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.20 dark side corruption"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force Standalone",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Force_DarkAffinity",
+      "name": "minordarksideaffinity"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "The most basic lightsaber form, focusing on fundamental strikes and defense.",
+      "stats": [
+        "+10% melee damage factor",
+        "+0.1 melee hit chance",
+        "-0.1 melee dodge chance"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+10% melee damage factor",
+          "+0.1 melee hit chance",
+          "-0.1 melee dodge chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force - Lightsaber",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Force_FormI_ShiiCho",
+      "name": "shii-chomaster"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "The duelist's form, specializing in lightsaber-to-lightsaber combat.",
+      "stats": [
+        "+15% melee armor penetration",
+        "+0.1 melee hit chance",
+        "-10% melee cooldown"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+15% melee armor penetration",
+          "+0.1 melee hit chance",
+          "-10% melee cooldown"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force - Lightsaber",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Force_FormII_Makashi",
+      "name": "makashimaster"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "The ultimate defensive form, maximizing protection against attacks while sacrificing offensive potential.",
+      "stats": [
+        "+0.2 melee dodge chance",
+        "+0.3 Lightsaber Deflection",
+        "+10% melee cooldown"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.2 melee dodge chance",
+          "+0.3 Lightsaber Deflection",
+          "+10% melee cooldown"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force - Lightsaber",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Force_FormIII_Soresu",
+      "name": "soresumaster"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "The acrobatic form, using Force-enhanced agility for offense and defense.",
+      "stats": [
+        "+0.2 melee dodge chance",
+        "+0.7 Lightsaber Deflection"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.2 melee dodge chance",
+          "+0.7 Lightsaber Deflection"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force - Lightsaber",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Force_FormIV_Ataru",
+      "name": "atarumaster"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "The power form, combining strong offensive strikes with defensive counters.",
+      "stats": [
+        "+10% melee damage factor",
+        "+10% melee armor penetration",
+        "+0.0 melee hit chance",
+        "+0.1 Lightsaber Deflection"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+10% melee damage factor",
+          "+10% melee armor penetration",
+          "+0.0 melee hit chance",
+          "+0.1 Lightsaber Deflection"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force - Lightsaber",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Force_FormV_ShienDjemSo",
+      "name": "shien/djemsomaster"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "The diplomat's form, balancing lightsaber combat with Force abilities.",
+      "stats": [
+        "+0.1 melee hit chance",
+        "+0.1 melee dodge chance",
+        "+15% psychic sensitivity offset"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.1 melee hit chance",
+          "+0.1 melee dodge chance",
+          "+15% psychic sensitivity offset"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force - Lightsaber",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Force_FormVI_Niman",
+      "name": "nimanmaster"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "The most aggressive form, channeling emotion into powerful attacks at the cost of defense.",
+      "stats": [
+        "+25% melee damage factor",
+        "-20% melee cooldown",
+        "-0.2 melee dodge chance",
+        "+0.20 dark side corruption"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+25% melee damage factor",
+          "-20% melee cooldown",
+          "-0.2 melee dodge chance",
+          "+0.20 dark side corruption"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars : The Force - Lightsaber",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Force_FormVII_JuyoVaapad",
+      "name": "juyo/vaapadmaster"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Borg strive for perfection through the assimilation of conquored technology into their bodies.5",
+      "stats": [],
+      "conflicts": [
+        "bodypurist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "bodypurist"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Invasion of the Borg",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BorgModder",
+      "name": "borgperfectionist"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "A strict principle of nonviolence which applies to all living things.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alpha Memes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AM_Ahimsa",
+      "name": "vowofnonviolence"
     },
     {
       "canAdd": true,
@@ -2150,265 +2644,8 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has extensive experience in construction and crafting. he will work faster than others and nearly always succeed at construction and repairs.",
-      "stats": [
-        "+25% construction speed",
-        "+25% construct success chance",
-        "+25% repair success chance",
-        "+25% smoothing speed",
-        "+25% smelting speed",
-        "+25% general labor speed"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+25% construction speed",
-          "+25% construct success chance",
-          "+25% repair success chance",
-          "+25% smoothing speed",
-          "+25% smelting speed",
-          "+25% general labor speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Integrated Creep Joiners",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MasterCraftsmanTrait",
-      "name": "craftsmaster"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has extensive experience in cooking. he will cook faster than others and never cause food poisoning.",
-      "stats": [
-        "+5.0 cooking speed",
-        "-100.00% food poison chance"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+5.0 cooking speed",
-          "-100.00% food poison chance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Integrated Creep Joiners",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MasterCookTrait",
-      "name": "masterchef"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is predisposed towards violence and will frequently try to harm others.",
-      "stats": [
-        "Morbid meditation focus type allowed."
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "Morbid meditation focus type allowed."
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Integrated Creep Joiners",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ViolentMind",
-      "name": "violentmind"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "A strict principle of nonviolence which applies to all living things.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Alpha Memes",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AM_Ahimsa",
-      "name": "vowofnonviolence"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is always ready with a flirtatious comment or a playful compliment, lifting the spirits of those around him. he has a knack for making others feel special and desired, however this may sometimes lead to complicated situations when his playful intentions are misinterpreted.",
-      "stats": [],
-      "conflicts": [
-        "abrasive",
-        "psychopath"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "abrasive",
-          "psychopath"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Races Expanded - Highmate",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VRE_Flirty",
-      "name": "flirty"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is exceptionally empathetic and sensitive to the suffering of others. Whenever he witnesses pain or hardship, it deeply affects him, resulting in memories of these events haunting Timmy for a much longer time.",
-      "stats": [],
-      "conflicts": [
-        "bloodlust",
-        "psychopath"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "bloodlust",
-          "psychopath"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Races Expanded - Highmate",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VRE_Distressed",
-      "name": "distressed"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 2,
-      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "germaphobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy is very hygienic and will wash more frequently.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "hygienic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy is very unhygienic and will wash less frequently.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "unhygienic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -2,
-      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "slob"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
       "description": "Timmy tends to let his mind drift, even in the middle of work. he may sometimes stop tasks at random.",
       "stats": [
-        "+10.00% sanity multiplier",
         "x50% global certainty loss factor"
       ],
       "conflicts": [
@@ -2420,7 +2657,6 @@
           "workaholic"
         ],
         "stats": [
-          "+10.00% sanity multiplier",
           "x50% global certainty loss factor"
         ],
         "canBypassLimit": false,
@@ -2440,7 +2676,6 @@
       "degree": 0,
       "description": "Timmy has a screw loose, but it comes with a sharper scientific mind.",
       "stats": [
-        "+40.00% sanity loss multiplier",
         "x115% research speed"
       ],
       "conflicts": [
@@ -2452,7 +2687,6 @@
           "slowlearner"
         ],
         "stats": [
-          "+40.00% sanity loss multiplier",
           "x115% research speed"
         ],
         "canBypassLimit": false,
@@ -2497,9 +2731,7 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy's instincts lean heavily toward cowardice. In danger, he will often hide or run before standing to fight.",
-      "stats": [
-        "+5.00% sanity loss multiplier"
-      ],
+      "stats": [],
       "conflicts": [
         "brave",
         "bloodlust",
@@ -2512,9 +2744,7 @@
           "bloodlust",
           "brawler"
         ],
-        "stats": [
-          "+5.00% sanity loss multiplier"
-        ],
+        "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2534,7 +2764,6 @@
       "stats": [
         "-20% mental break threshold",
         "+20% pain shock threshold",
-        "-10.00% sanity loss multiplier",
         "x25% global certainty loss factor"
       ],
       "conflicts": [
@@ -2558,7 +2787,6 @@
         "stats": [
           "-20% mental break threshold",
           "+20% pain shock threshold",
-          "-10.00% sanity loss multiplier",
           "x25% global certainty loss factor"
         ],
         "canBypassLimit": false,
@@ -3010,8 +3238,7 @@
       "stats": [
         "-50% global learning factor",
         "-50.00% social impact",
-        "x300% global certainty loss factor",
-        "x75% sanity multiplier"
+        "x300% global certainty loss factor"
       ],
       "conflicts": [
         "academian",
@@ -3034,8 +3261,7 @@
         "stats": [
           "-50% global learning factor",
           "-50.00% social impact",
-          "x300% global certainty loss factor",
-          "x75% sanity multiplier"
+          "x300% global certainty loss factor"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -3133,7 +3359,6 @@
       "description": "Timmy is naturally anxious, especially in social situations. he avoids gatherings and sometimes retreats to his room to cope.",
       "stats": [
         "Only mental break \"VTE_PanicFreezing\" allowed.",
-        "-25.00% sanity gain multiplier",
         "x200% global certainty loss factor"
       ],
       "conflicts": [
@@ -3146,7 +3371,6 @@
         ],
         "stats": [
           "Only mental break \"VTE_PanicFreezing\" allowed.",
-          "-25.00% sanity gain multiplier",
           "x200% global certainty loss factor"
         ],
         "canBypassLimit": false,
@@ -3305,7 +3529,6 @@
       "description": "Timmy has a sharp, logical mind. he researches faster than most, and his rational outlook makes him less prone to mental breaks.",
       "stats": [
         "+20% mental break threshold",
-        "+25.00% sanity multiplier",
         "x130% research speed"
       ],
       "conflicts": [
@@ -3318,7 +3541,6 @@
         ],
         "stats": [
           "+20% mental break threshold",
-          "+25.00% sanity multiplier",
           "x130% research speed"
         ],
         "canBypassLimit": false,
@@ -3414,16 +3636,14 @@
       "degree": 0,
       "description": "Timmy hides a twisted obsession. he treats organ harvesting as a dark experiment and takes pleasure in it. Harvesting makes him happy, but going too long without fuels growing unrest.",
       "stats": [
-        "+20% surgery success chance factor",
-        "+50.00% sanity loss multiplier"
+        "+20% surgery success chance factor"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "+20% surgery success chance factor",
-          "+50.00% sanity loss multiplier"
+          "+20% surgery success chance factor"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -3584,7 +3804,6 @@
       "degree": 0,
       "description": "Timmy is never fully asleep or awake. he lurches along in a slow, shambler-like state, and only sleeps once every few days.",
       "stats": [
-        "+25.00% sanity loss multiplier",
         "x50% global work speed",
         "x70% move speed",
         "x50% global certainty loss factor"
@@ -3598,7 +3817,6 @@
           "heavysleeper"
         ],
         "stats": [
-          "+25.00% sanity loss multiplier",
           "x50% global work speed",
           "x70% move speed",
           "x50% global certainty loss factor"
@@ -3642,8 +3860,7 @@
       "degree": 0,
       "description": "Timmy is hardened by old emotional trauma. he feels nothing from death or loss, whether animal, colonist, family, or prisoner.",
       "stats": [
-        "x50% global certainty loss factor",
-        "x75% sanity multiplier"
+        "x50% global certainty loss factor"
       ],
       "conflicts": [
         "squeamish"
@@ -3654,8 +3871,7 @@
           "squeamish"
         ],
         "stats": [
-          "x50% global certainty loss factor",
-          "x75% sanity multiplier"
+          "x50% global certainty loss factor"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -3913,16 +4129,12 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy bottles up his feelings for long stretches of time. When the pressure grows too great, he may suddenly break down.",
-      "stats": [
-        "x200% sanity multiplier"
-      ],
+      "stats": [],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [
-          "x200% sanity multiplier"
-        ],
+        "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -3938,195 +4150,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy's mind is dominated by the psychic patterns of the void. They are completely disconnected from human concerns of family, friendship, and love. Their experience of reality is distant and muted, guided by the psychic rhythm of a dark hyperintelligence.",
-      "stats": [
-        "-1.00% sanity gain per day"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-1.00% sanity gain per day"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Anomaly Expanded - Insanity",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VAEI_Inhumanized",
-      "name": "inhumanized"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has seen the depths of the void and drank from its essence. It lives inside them still, guiding their actions and twisting their flesh. It has turned their hair brittle and white. They no longer need sleep or comfort. The void provides for them.",
-      "stats": [
-        "x10% sanity gain multiplier"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x10% sanity gain multiplier"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Anomaly Expanded - Insanity",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VAEI_VoidTouched",
-      "name": "voidtouched"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is terrified of germs and contamination, leading to excessively slow and meticulous cleaning, but due to the careful nature will never contract flu, malaria, or plague.",
-      "stats": [
-        "+100.00% sanity loss multiplier",
-        "x20% cleaning speed multiplier"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+100.00% sanity loss multiplier",
-          "x20% cleaning speed multiplier"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Anomaly Expanded - Insanity",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VAEI_Germaphobe",
-      "name": "germaphobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is desperately afraid of commitment. he will actively refuse any attachment to others, and will never form any new relationships.",
-      "stats": [
-        "+100.00% sanity loss multiplier"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+100.00% sanity loss multiplier"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Anomaly Expanded - Insanity",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VAEI_Noncommittal",
-      "name": "noncommittal"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy's emotional foundation is fragile, making him significantly more prone to crumbling under stress. he struggle to handle pressure, which often leads to breakdowns in challenging situations.",
-      "stats": [
-        "+12% mental break threshold",
-        "+100.00% sanity loss multiplier",
-        "x250% global certainty loss factor"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+12% mental break threshold",
-          "+100.00% sanity loss multiplier",
-          "x250% global certainty loss factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Anomaly Expanded - Insanity",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VAEI_Unstable",
-      "name": "impulsive"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy hyperfocuses on certain things when he feel like it, but most of the time he will struggle to concentrate on his task, severely affecting his work speed.",
-      "stats": [
-        "+100.00% sanity loss multiplier"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+100.00% sanity loss multiplier"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Anomaly Expanded - Insanity",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VAEI_Distractable",
-      "name": "distractable"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy suffers from severe mood swings that can last anything between a day and a quadrum. One day he might be extremely happy, whilst the next day - extremely sad.",
-      "stats": [
-        "+100.00% sanity loss multiplier"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+100.00% sanity loss multiplier"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Anomaly Expanded - Insanity",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VAEI_MoodSwings",
-      "name": "moodswings"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 3,
-      "description": "Timmy is an ally who will one day join your faction.",
+      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -4136,11 +4160,11 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Reunion",
+        "mod": "Vanilla Psycasts Expanded",
         "karmaTypeForAdding": null
       },
-      "defName": "ReunionCharacter",
-      "name": "ally"
+      "defName": "VPE_Thrall",
+      "name": "thrall"
     },
     {
       "canAdd": true,
@@ -4148,59 +4172,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Borg strive for perfection through the assimilation of conquored technology into their bodies.5",
-      "stats": [],
-      "conflicts": [
-        "bodypurist"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "bodypurist"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Invasion of the Borg",
-        "karmaTypeForAdding": null
-      },
-      "defName": "BorgModder",
-      "name": "borgperfectionist"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy just doesn't give a shit what others think. he is unaffected by slights and insults, but also by kind words.",
-      "stats": [
-        "x50% global certainty loss factor"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x50% global certainty loss factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Cyanobot's Genes",
-        "karmaTypeForAdding": null
-      },
-      "defName": "CYB_Unaffected",
-      "name": "unaffected"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is charming and charismatic. Others are inclined to like him, and his knows how to lift their spirits with well-placed words.",
+      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -4210,11 +4182,11 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Cyanobot's Genes",
+        "mod": "Vanilla Fishing Expanded",
         "karmaTypeForAdding": null
       },
-      "defName": "CYB_Delightful",
-      "name": "delightful"
+      "defName": "VCEF_Fisherman",
+      "name": "fisherman"
     },
     {
       "canAdd": true,
@@ -4222,33 +4194,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy does not feel empathy for strangers. he can hurt them without feeling bad about it.",
-      "stats": [],
-      "conflicts": [
-        "psychopath"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "psychopath"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Bad People",
-        "karmaTypeForAdding": null
-      },
-      "defName": "BadPeople_Evil",
-      "name": "depraved"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy kills so many relatives. Another dead kin is just a number.",
+      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -4258,77 +4204,11 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Bad People",
+        "mod": "Vanilla Ideology Expanded - Memes and Structures",
         "karmaTypeForAdding": null
       },
-      "defName": "BadPeople_Kinslayer",
-      "name": "kinslayer"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy prefers shells over sleeves. he doesn’t care how often he switches shells or what shell he is currently riding, but will be unhappy in a sleeve.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Altered Carbon 2: ReSleeved",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AC_Shellwalker",
-      "name": "shellwalker"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has always seen his body as nothing more than a vessel. he does not care about the gender, age or looks of his body.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Altered Carbon 2: ReSleeved",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AC_FreeMind",
-      "name": "freemind"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy can change his sleeves as easily as someone else may change their clothes. he doesn’t care how often he switches sleeves or what sleeve he is currently riding.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Altered Carbon 2: ReSleeved",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AC_Sleever",
-      "name": "sleever"
+      "defName": "VME_Elder",
+      "name": "elder"
     }
   ],
   "races": [
