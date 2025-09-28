@@ -19179,26 +19179,6 @@
     "Mod": "Simple Utilities: Fridge",
     "KarmaType": null
   },
-  "Titan": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Titans",
-    "KarmaType": null
-  },
   "Force_DarksideWraithRace": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -28540,26 +28520,6 @@
     "KarmaType": null
   },
   "HL_Locust": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "RimWorld",
-    "KarmaType": null
-  },
-  "HL_Titan": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
