@@ -36,6 +36,12 @@
     "version": "1.6.0.1"
   },
   {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.6+640efbf646275dafd663d0b6efbacb2a67d02d30"
+  },
+  {
     "author": "seobongzu",
     "name": "[sbz] Cryogenic Tank",
     "steamId": null,
@@ -354,12 +360,6 @@
     "version": null
   },
   {
-    "author": "Smash Phil",
-    "name": "Vehicle Framework",
-    "steamId": "3014915404",
-    "version": "1.6+640efbf646275dafd663d0b6efbacb2a67d02d30"
-  },
-  {
     "author": "Haecriver",
     "name": "Injured Carry",
     "steamId": "2413690575",
@@ -556,12 +556,6 @@
     "name": "Vanilla Animals Expanded — Waste Animals",
     "steamId": "2962126499",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "FlatronWS",
-    "name": "Titans",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Sam",

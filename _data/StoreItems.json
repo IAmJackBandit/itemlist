@@ -18481,18 +18481,6 @@
 		"defname": "GR_TissueGrinder"
 	},
 	{
-		"abr": "titan",
-		"price": 4167,
-		"category": "Animals",
-		"defname": "Titan"
-	},
-	{
-		"abr": "titan",
-		"price": 6250,
-		"category": "Animal",
-		"defname": "HL_Titan"
-	},
-	{
 		"abr": "toad",
 		"price": 4000,
 		"category": "Animal",
@@ -18899,7 +18887,7 @@
 		"price": 10,
 		"category": "Ranged weapons",
 		"defname": "Thrown_hssn_UraniumOre"
-	}
+	},
 	],
-	"total": 3336
+	"total": 3334
 }
