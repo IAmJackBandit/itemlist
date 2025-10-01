@@ -4172,28 +4172,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Fishing Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VCEF_Fisherman",
-      "name": "fisherman"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
       "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
       "stats": [],
       "conflicts": [],
@@ -4429,6 +4407,466 @@
       },
       "defName": "MechAtlas",
       "name": "mech"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy learns faster in skills they lack passion in.\n\n(This increase to no-passion learning will not show in the skill UI)",
+      "stats": [
+        "+0.35 skill learning (no passion)",
+        "+15% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.35 skill learning (no passion)",
+          "+15% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Passioned_Learning",
+      "name": "diligentstudent"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy learns much faster in skills they lack passion in.\n\n(This increase to no-passion learning will not show in the skill UI)",
+      "stats": [
+        "+0.65 skill learning (no passion)",
+        "+30% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.65 skill learning (no passion)",
+          "+30% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Very_Passioned_Learning",
+      "name": "verydiligentstudent"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "There is something about Timmy that makes predators not consider them prey",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_AnimalFriend",
+      "name": "animalfriend"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy loves alcohol. he will never stop being addicted to it.",
+      "stats": [
+        "+10% mental break threshold",
+        "x150% recreation power"
+      ],
+      "conflicts": [
+        "chemicalfascination",
+        "chemicalinterest",
+        "teetotaler",
+        "lush"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "chemicalfascination",
+          "chemicalinterest",
+          "teetotaler",
+          "lush"
+        ],
+        "stats": [
+          "+10% mental break threshold",
+          "x150% recreation power"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_AlcoholAddict",
+      "name": "alcohollover"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a gentle and cool-headed nature. he is less likely to insult others or starts fights, and will sometimes cheer up others.",
+      "stats": [
+        "-20% mental break threshold"
+      ],
+      "conflicts": [
+        "abrasive",
+        "kind",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "abrasive",
+          "kind",
+          "psychopath"
+        ],
+        "stats": [
+          "-20% mental break threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_Gentle",
+      "name": "gentle"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy doesn't react to insults or to either part failing a flirt attempt.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_InsultProof",
+      "name": "uninsultable"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy isn't bothered by rough appearances, a bit of rough living. Timmy also doesn't care as much for royal titles.",
+      "stats": [],
+      "conflicts": [
+        "greedy",
+        "jealous",
+        "bodypurist",
+        "misandrist",
+        "misogynist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "greedy",
+          "jealous",
+          "bodypurist",
+          "misandrist",
+          "misogynist"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_Unpretentious",
+      "name": "unpretentious"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is truly gigantic by the standards of their kind. They are sturdier than usual, but being significantly larger than normal for their kind does slow them down somewhat and make them more prone to early heart attacks and other health-issues.",
+      "stats": [
+        "x130% body size multipler",
+        "x110% construction speed",
+        "x90% move speed",
+        "x80% lifespan factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x130% body size multipler",
+          "x110% construction speed",
+          "x90% move speed",
+          "x80% lifespan factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Gigantism",
+      "name": "gigantism"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is both taller and bulkier than usual for their kind. This makes them sturdier but slightly slower.",
+      "stats": [
+        "x115% body size multipler",
+        "x105% construction speed",
+        "x98% move speed",
+        "x95% lifespan factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x115% body size multipler",
+          "x105% construction speed",
+          "x98% move speed",
+          "x95% lifespan factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Large",
+      "name": "large"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a bit smaller than usual for their kind.",
+      "stats": [
+        "x80% body size multipler",
+        "x95% mining speed",
+        "x95% construction speed",
+        "x95% deep drilling speed",
+        "x93% move speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x80% body size multipler",
+          "x95% mining speed",
+          "x95% construction speed",
+          "x95% deep drilling speed",
+          "x93% move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Small",
+      "name": "small"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is much smaller than usual for their kind.",
+      "stats": [
+        "x60% body size multipler",
+        "x75% mining speed",
+        "x75% construction speed",
+        "x75% deep drilling speed",
+        "x85% move speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x60% body size multipler",
+          "x75% mining speed",
+          "x75% construction speed",
+          "x75% deep drilling speed",
+          "x85% move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Dwarfism",
+      "name": "dwarfism"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy prefers shells over sleeves. he doesn’t care how often he switches shells or what shell he is currently riding, but will be unhappy in a sleeve.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Altered Carbon 2: ReSleeved",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AC_Shellwalker",
+      "name": "shellwalker"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has always seen his body as nothing more than a vessel. he does not care about the gender, age or looks of his body.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Altered Carbon 2: ReSleeved",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AC_FreeMind",
+      "name": "freemind"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy can change his sleeves as easily as someone else may change their clothes. he doesn’t care how often he switches sleeves or what sleeve he is currently riding.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Altered Carbon 2: ReSleeved",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AC_Sleever",
+      "name": "sleever"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is always ready with a flirtatious comment or a playful compliment, lifting the spirits of those around him. he has a knack for making others feel special and desired, however this may sometimes lead to complicated situations when his playful intentions are misinterpreted.",
+      "stats": [],
+      "conflicts": [
+        "abrasive",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "abrasive",
+          "psychopath"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Races Expanded - Highmate",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VRE_Flirty",
+      "name": "flirty"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is exceptionally empathetic and sensitive to the suffering of others. Whenever he witnesses pain or hardship, it deeply affects him, resulting in memories of these events haunting Timmy for a much longer time.",
+      "stats": [],
+      "conflicts": [
+        "bloodlust",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "bloodlust",
+          "psychopath"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Races Expanded - Highmate",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VRE_Distressed",
+      "name": "distressed"
     }
   ],
   "races": [
@@ -4440,8 +4878,8 @@
           "+70% Flammability",
           "+$1750 Market value",
           "+4.60 Move speed",
-          "+16.0C Min comfortable temperature",
-          "+26.0C Max comfortable temperature",
+          "+16.0C [28.8F] Min comfortable temperature",
+          "+26.0C [46.8F] Max comfortable temperature",
           "+75 Leather amount",
           "+3 Honor value",
           "+75% Wildness"
@@ -4463,8 +4901,8 @@
           "+70% Flammability",
           "+$1750 Market value",
           "+4.60 Move speed",
-          "+16.0C Min comfortable temperature",
-          "+26.0C Max comfortable temperature",
+          "+16.0C [28.8F] Min comfortable temperature",
+          "+26.0C [46.8F] Max comfortable temperature",
           "+75 Leather amount",
           "+3 Honor value",
           "+75% Wildness"
@@ -4492,8 +4930,8 @@
           "+35.0% Armor - Sharp",
           "+45.0% Armor - Blunt",
           "+15.0% Armor - Heat",
-          "-40.0C Min comfortable temperature",
-          "+135.0C Max comfortable temperature",
+          "-40.0C [-72.0F] Min comfortable temperature",
+          "+135.0C [243.0F] Max comfortable temperature",
           "+420% Pain shock threshold",
           "+300.00 Mass",
           "+100% Eating speed",
@@ -4544,8 +4982,8 @@
           "+35.0% Armor - Sharp",
           "+45.0% Armor - Blunt",
           "+15.0% Armor - Heat",
-          "-40.0C Min comfortable temperature",
-          "+135.0C Max comfortable temperature",
+          "-40.0C [-72.0F] Min comfortable temperature",
+          "+135.0C [243.0F] Max comfortable temperature",
           "+350% Pain shock threshold",
           "+300.00 Mass",
           "+80% Eating speed",
@@ -4597,8 +5035,8 @@
           "+0.0% Armor - Sharp",
           "+0.0% Armor - Blunt",
           "+0.0% Armor - Heat",
-          "+24.0C Min comfortable temperature",
-          "+25.0C Max comfortable temperature",
+          "+24.0C [43.2F] Min comfortable temperature",
+          "+25.0C [45.0F] Max comfortable temperature",
           "+100% Pain shock threshold",
           "+50.00 Mass",
           "+100% Eating speed",
@@ -4650,8 +5088,8 @@
           "+0.0% Armor - Sharp",
           "+0.0% Armor - Blunt",
           "+0.0% Armor - Heat",
-          "+24.0C Min comfortable temperature",
-          "+25.0C Max comfortable temperature",
+          "+24.0C [43.2F] Min comfortable temperature",
+          "+25.0C [45.0F] Max comfortable temperature",
           "+100% Pain shock threshold",
           "+50.00 Mass",
           "+100% Eating speed",
@@ -4697,8 +5135,8 @@
           "+$8000 Market value",
           "+10.00 Move speed",
           "+100% Psychic sensitivity",
-          "-200.0C Min comfortable temperature",
-          "+500.0C Max comfortable temperature",
+          "-200.0C [-360.0F] Min comfortable temperature",
+          "+500.0C [900.0F] Max comfortable temperature",
           "+500% Pain shock threshold",
           "+100% Toxic resistance",
           "+15% Mental break threshold",
@@ -4731,8 +5169,8 @@
           "+$6000 Market value",
           "+7.20 Move speed",
           "+50% Psychic sensitivity",
-          "-70.0C Min comfortable temperature",
-          "+60.0C Max comfortable temperature",
+          "-70.0C [-126.0F] Min comfortable temperature",
+          "+60.0C [108.0F] Max comfortable temperature",
           "+500% Pain shock threshold",
           "+95% Toxic resistance",
           "+30% Mental break threshold",
@@ -4765,8 +5203,8 @@
           "+$4800 Market value",
           "+5.00 Move speed",
           "+15% Psychic sensitivity",
-          "-60.0C Min comfortable temperature",
-          "+50.0C Max comfortable temperature",
+          "-60.0C [-108.0F] Min comfortable temperature",
+          "+50.0C [90.0F] Max comfortable temperature",
           "+500% Pain shock threshold",
           "+90% Toxic resistance",
           "+125% Global work speed",
@@ -4798,8 +5236,8 @@
           "+$1400 Market value",
           "+3.00 Move speed",
           "+0% Psychic sensitivity",
-          "-35.0C Min comfortable temperature",
-          "+30.0C Max comfortable temperature",
+          "-35.0C [-63.0F] Min comfortable temperature",
+          "+30.0C [54.0F] Max comfortable temperature",
           "+500% Pain shock threshold",
           "+70% Toxic resistance",
           "+8% Mental break threshold",
@@ -4834,8 +5272,8 @@
           "+$2500 Market value",
           "+4.50 Move speed",
           "+0% Psychic sensitivity",
-          "-40.0C Min comfortable temperature",
-          "+35.0C Max comfortable temperature",
+          "-40.0C [-72.0F] Min comfortable temperature",
+          "+35.0C [63.0F] Max comfortable temperature",
           "+500% Pain shock threshold",
           "+85% Toxic resistance",
           "+85% Global work speed",
@@ -4870,8 +5308,8 @@
           "+$18000 Market value",
           "+4.80 Move speed",
           "+0% Psychic sensitivity",
-          "-200.0C Min comfortable temperature",
-          "+500.0C Max comfortable temperature",
+          "-200.0C [-360.0F] Min comfortable temperature",
+          "+500.0C [900.0F] Max comfortable temperature",
           "+500% Pain shock threshold",
           "+95% Toxic resistance",
           "+1% Mental break threshold",
@@ -4902,8 +5340,8 @@
           "+$18000 Market value",
           "+5.00 Move speed",
           "+0% Psychic sensitivity",
-          "-200.0C Min comfortable temperature",
-          "+500.0C Max comfortable temperature",
+          "-200.0C [-360.0F] Min comfortable temperature",
+          "+500.0C [900.0F] Max comfortable temperature",
           "+500% Pain shock threshold",
           "+100% Toxic resistance",
           "+1% Mental break threshold",
@@ -4933,8 +5371,8 @@
           "+100% Flammability",
           "+$1500 Market value",
           "+4.61 Move speed",
-          "-50.0C Min comfortable temperature",
-          "+50.0C Max comfortable temperature",
+          "-50.0C [-90.0F] Min comfortable temperature",
+          "+50.0C [90.0F] Max comfortable temperature",
           "+80% Toxic resistance",
           "+135% Immunity gain speed",
           "+25 Leather amount",
@@ -4957,8 +5395,8 @@
           "+0% Flammability",
           "+$850 Market value",
           "+5.21 Move speed",
-          "-200.0C Min comfortable temperature",
-          "+300.0C Max comfortable temperature",
+          "-200.0C [-360.0F] Min comfortable temperature",
+          "+300.0C [540.0F] Max comfortable temperature",
           "+100% Toxic resistance",
           "+0% Psychic sensitivity",
           "+500% Pain shock threshold",
@@ -4991,8 +5429,8 @@
           "+0% Flammability",
           "+$1900 Market value",
           "+4.00 Move speed",
-          "-200.0C Min comfortable temperature",
-          "+500.0C Max comfortable temperature",
+          "-200.0C [-360.0F] Min comfortable temperature",
+          "+500.0C [900.0F] Max comfortable temperature",
           "+100% Toxic resistance",
           "+0% Psychic sensitivity",
           "+500% Pain shock threshold",
@@ -5026,8 +5464,8 @@
           "+0% Flammability",
           "+$1650 Market value",
           "+7.20 Move speed",
-          "-200.0C Min comfortable temperature",
-          "+300.0C Max comfortable temperature",
+          "-200.0C [-360.0F] Min comfortable temperature",
+          "+300.0C [540.0F] Max comfortable temperature",
           "+100% Toxic resistance",
           "+0% Psychic sensitivity",
           "+500% Pain shock threshold",
@@ -5062,8 +5500,8 @@
           "+0% Flammability",
           "+$3500 Market value",
           "+7.20 Move speed",
-          "-1000.0C Min comfortable temperature",
-          "+1000.0C Max comfortable temperature",
+          "-1000.0C [-1800.0F] Min comfortable temperature",
+          "+1000.0C [1800.0F] Max comfortable temperature",
           "+100% Toxic resistance",
           "+0% Psychic sensitivity",
           "+500% Pain shock threshold",
@@ -5098,8 +5536,8 @@
           "+25% Flammability",
           "+$400 Market value",
           "+4.80 Move speed",
-          "-85.0C Min comfortable temperature",
-          "+85.0C Max comfortable temperature",
+          "-85.0C [-153.0F] Min comfortable temperature",
+          "+85.0C [153.0F] Max comfortable temperature",
           "+100% Toxic resistance",
           "+0% Psychic sensitivity",
           "+500% Pain shock threshold",
@@ -5137,8 +5575,8 @@
           "+25% Flammability",
           "+$400 Market value",
           "+4.80 Move speed",
-          "-85.0C Min comfortable temperature",
-          "+85.0C Max comfortable temperature",
+          "-85.0C [-153.0F] Min comfortable temperature",
+          "+85.0C [153.0F] Max comfortable temperature",
           "+100% Toxic resistance",
           "+0% Psychic sensitivity",
           "+500% Pain shock threshold",
@@ -5175,8 +5613,8 @@
           "+55% Flammability",
           "+$660 Market value",
           "+4.80 Move speed",
-          "-85.0C Min comfortable temperature",
-          "+85.0C Max comfortable temperature",
+          "-85.0C [-153.0F] Min comfortable temperature",
+          "+85.0C [153.0F] Max comfortable temperature",
           "+100% Toxic resistance",
           "+0% Psychic sensitivity",
           "+500% Pain shock threshold",
